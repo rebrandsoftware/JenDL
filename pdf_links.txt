@@ -1,339 +1,351 @@
 # PDF URLs with source info (comments are ignored by download.py)
 # Number prefix matches the line number in pdf_urls.txt
 
-# 001 - Depressive and anxious symptomatology in a Lebanese sample during the COVID-19 outbreak
-# Original: https://scholar.google.com/scholar?q=Depressive+and+anxious+symptomatology+in+a+Lebanese+sample+during+the+COVID-19+outbreak
-https://doi.org/10.1080/14635240.2021.1950561
-
-# 002 - Trusting Only Whom You Know, Knowing Only Whom You Trust: The Joint Impact of Social Capital and Trust on Happiness in CEE Countries
-# Original: https://scholar.google.com/scholar?q=Trusting+only+whom+you+know,+knowing+only+whom+you+trust:+The+joint+impact+of+social+capital+and+trust+on+happiness+in+CEE+countries
-https://link.springer.com/content/pdf/10.1007/s10902-013-9461-8.pdf
-
-# 003 - The Effects of the 2016 Copa América Centenario Victory on Social Trust, Self-Transcendent Aspirations and Evaluated Subjective Well-Being: The Role of Identity With the National Team and Collective Pride in Major Sport Events
-# Original: https://scholar.google.com/scholar?q=The+effects+of+the+2016+Copa+America+Centenario+victory+on+social+trust,+self-transcendent+aspirations+and+evaluated+subjective+well-being+The+role+of+identity+with+the+national+team+and+collective+pride+in+major+sport+events
-https://www.frontiersin.org/articles/10.3389/fpsyg.2020.591498/pdf
-
-# 005 - Gender-related differences in the multi-pathway effect of social determinants on quality of life in older age—the COURAGE in Europe project
-# Original: https://scholar.google.com/scholar?q=Gender-related+differences+in+the+multi-pathway+effect+of+social+determinants+on+quality+of+life+in+older+age-The+COURAGE+in+Europe+project
-https://link.springer.com/content/pdf/10.1007%2Fs11136-017-1530-8.pdf
-
-# 007 - Young People’s Well-Being and the Association with Social Capital, i.e. Social Networks, Trust and Reciprocity
-# Original: https://scholar.google.com/scholar?q=Young+people's+well-being+and+the+association+with+social+capital,+i.e.+social+networks,+trust+and+reciprocity
-https://link.springer.com/content/pdf/10.1007/s11205-021-02762-z.pdf
-
-# 010 - Local Impact of Global Crises, Institutional Trust, and Consumer Well-Being: Evidence from the COVID-19 Pandemic
-# Original: https://scholar.google.com/scholar?q=Local+Impact+of+Global+Crises,+Institutional+Trust,+and+Consumer+Well-Being:+Evidence+from+the+COVID-19+Pandemic
-https://eprints.whiterose.ac.uk/174205/3/Davvetas%2C%20Ulqinaku%20%26%20Sarial-Abi%2C%202021.pdf
-
-# 011 - Mediating Effect of Cognitive Social Capital on the Relationship Between Physical Disability and Depression in Elderly People of Rural Pakistan
-# Original: https://scholar.google.com/scholar?q=Mediating+Effect+of+Cognitive+Social+Capital+on+the+Relationship+Between+Physical+Disability+and+Depression+in+Elderly+People+of+Rural+Pakistan
-https://www.mdpi.com/1660-4601/16/21/4232/pdf?version=1572533023
-
-# 012 - Depressive Symptoms and Trust of Healthcare Provider in Rural Adolescents: Relationships and Predictors
-# Original: https://scholar.google.com/scholar?q=Depressive+Symptoms+and+Trust+of+Healthcare+Provider+in+Rural+Adolescents:+Relationships+and+Predictors
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7855091
-
-# 013 - Associations of Psychosocial Factors with Multiple Health Behaviors: A Population-Based Study of Middle-Aged Men and Women
-# Original: https://scholar.google.com/scholar?q=Associations+of+Psychosocial+Factors+with+Multiple+Health+Behaviors:+A+Population-Based+Study+of+Middle-Aged+Men+and+Women
-https://www.mdpi.com/1660-4601/17/4/1239/pdf?version=1582372213
-
-# 015 - Factors associated with fear of intimacy among a representative sample of the Lebanese population: The role of depression, social phobia, self-esteem, intimate partner violence, attachment, and maladaptive schemas.
-# Original: https://scholar.google.com/scholar?q=Factors+associated+with+fear+of+intimacy+among+a+representative+sample+of+the+Lebanese+population:+The+role+of+depression,+social+phobia,+self-esteem,+intimate+partner+violence,+attachment,+and+maladaptive+schemas
-https://doi.org/10.1111/ppc.12438
-
-# 016 - The relation between older adults’ trust beliefs in nursing home carers and adjustment to residential care
-# Original: https://scholar.google.com/scholar?q=The+relation+between+older+adults'+trust+beliefs+in+nursing+home+carers+and+adjustment+to+residential+care
-https://doi.org/10.1017/s0144686x21000301
-
-# 017 - Inter- and intra-household perceived relative inequality among disabled and non-disabled people in Liberia
-# Original: https://scholar.google.com/scholar?q=Inter-+and+intra-household+perceived+relative+inequality+among+disabled+and+non-disabled+people+in+Liberia
-https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0217873&type=printable
-
-# 018 - The impact of a failed coup d’état on happiness, life satisfaction, and trust: the case of the plot in Turkey on July 15, 2016
-# Original: https://scholar.google.com/scholar?q=The+impact+of+a+failed+coup+d'etat+on+happiness,+life+satisfaction,+and+trust:+the+case+of+the+plot+in+Turkey+on+July+15,+2016
-https://agi.repo.nii.ac.jp/record/183/files/WP2019-10.pdf
-
-# 020 - How Trust Makes a Difference: The Impact of the First Wave of the COVID-19 Pandemic on Life Satisfaction in Germany
-# Original: https://scholar.google.com/scholar?q=How+Trust+Makes+a+Difference:+The+Impact+of+the+First+Wave+of+the+COVID-19+Pandemic+on+Life+Satisfaction+in+Germany
-https://link.springer.com/content/pdf/10.1007/s11482-021-09956-0.pdf
-
-# 022 - Social and Psychological Factors of Political Participation according to Recent European Social Survey Data
-# Original: https://scholar.google.com/scholar?q=Social+and+Psychological+Factors+of+Political+Participation+according+to+Recent+European+Social+Survey+Data
-https://doi.org/10.17356/ieejsp.v5i3.488
-
-# 025 - Can You Hear Me Now? Effects of Patient-Centered Communication With Young Adults Aged 26 to 39
-# Original: https://scholar.google.com/scholar?q=Can+You+Hear+Me+Now?+Effects+of+Patient-Centered+Communication+With+Young+Adults+Aged+26+to+39
-https://journals.sagepub.com/doi/pdf/10.1177/23743735211033116
-
-# 027 - Happiness and life satisfaction in Rwanda
-# Original: https://scholar.google.com/scholar?q=Happiness+and+life+satisfaction+in+Rwanda
-https://eprints.whiterose.ac.uk/124273/1/Happiness_and_Life_Satisfaction_in_Rwanda_accepted_version.pdf
-
-# 028 - Refugee Children’s Social–Emotional Capacities: Links to Mental Health upon Resettlement and Buffering Effects on Pre-Migratory Adversity
-# Original: https://scholar.google.com/scholar?q=Refugee+Children's+Social-Emotional+Capacities:+Links+to+Mental+Health+upon+Resettlement+and+Buffering+Effects+on+Pre-Migratory+Adversity
-https://www.mdpi.com/1660-4601/18/22/12180/pdf?version=1637514824
-
-# 033 - The mediation effect of political interest on the connection between social trust and wellbeing among older adults
-# Original: https://scholar.google.com/scholar?q=The+mediation+effect+of+political+interest+on+the+connection+between+social+trust+and+wellbeing+among+older+adults
-https://figshare.com/articles/journal_contribution/The_mediation_effect_of_political_interest_on_the_connection_between_social_trust_and_wellbeing_among_older_adults/9576323/1/files/17210459.pdf
-
-# 034 - Distancing Adherence and Negative Emotions among the Israeli Elderly Population during the COVID-19 Pandemic
-# Original: https://scholar.google.com/scholar?q=Distancing+Adherence+and+Negative+Emotions+among+the+Israeli+Elderly+Population+during+the+COVID-19+Pandemic
-https://doi.org/10.3390/ijerph18168770
-
-# 036 - Mediated roles of generalized trust and perceived social support in the effects of problematic social media use on mental health: A cross‐sectional study
-# Original: https://scholar.google.com/scholar?q=Mediated+roles+of+generalized+trust+and+perceived+social+support+in+the+effects+of+problematic+social+media+use+on+mental+health:+A+cross-sectional+study
-https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.13169
-
-# 037 - Epidemic Risk Perception, Perceived Stress, and Mental Health During COVID-19 Pandemic: A Moderated Mediating Model
-# Original: https://scholar.google.com/scholar?q=Epidemic+Risk+Perception,+Perceived+Stress,+and+Mental+Health+During+COVID-19+Pandemic:+A+Moderated+Mediating+Model
-https://www.frontiersin.org/articles/10.3389/fpsyg.2020.563741/pdf
-
-# 039 - Living in opposition: How women in the United States cope in spite of mistrust of federal leadership during the pandemic of Covid‐19
-# Original: https://scholar.google.com/scholar?q=Living+in+opposition:+How+women+in+the+United+States+cope+in+spite+of+mistrust+of+federal+leadership+during+the+pandemic+of+Covid-19
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8251460
-
-# 041 - Does young adults’ life satisfaction promote tolerance towards immigrants? The role of political satisfaction and social trust
-# Original: https://scholar.google.com/scholar?q=Does+young+adults'+life+satisfaction+promote+tolerance+towards+immigrants?+The+role+of+political+satisfaction+and+social+trust
-https://link.springer.com/content/pdf/10.1007/s12144-021-01923-0.pdf
-
-# 042 - Perceived Corruption and Individuals’ Life Satisfaction: The Mediating Role of Institutional Trust
-# Original: https://scholar.google.com/scholar?q=Perceived+corruption+and+individuals'+life+satisfaction:+The+mediating+role+of+institutional+trust
-https://iris.unipa.it/bitstream/10447/300805/6/Ciziceno-Travaglino2019_Article_PerceivedCorruptionAndIndividu.pdf
-
-# 044 - Trust in mutual aid group members, self-management of chronic illness, and well-being among young patients with chronic illness in Hong Kong
-# Original: https://scholar.google.com/scholar?q=Trust+in+mutual+aid+group+members,+self-management+of+chronic+illness,+and+well-being+among+young+patients+with+chronic+illness+in+Hong+Kong
-https://doi.org/10.1016/j.childyouth.2021.106240
-
-# 045 - The Impact of Telework and Closure of Educational and Childcare Facilities on Working People During COVID-19
-# Original: https://scholar.google.com/scholar?q=The+Impact+of+Telework+and+Closure+of+Educational+and+Childcare+Facilities+on+Working+People+During+COVID-19
-https://doi.org/10.1026/0932-4089/a000370
-
-# 046 - An Exploratory Study of Factors That Affect Psychological Well-Being of 4-Year College Freshmen in South Korea
-# Original: https://scholar.google.com/scholar?q=An+Exploratory+Study+of+Factors+That+Affect+Psychological+Well-Being+of+4-Year+College+Freshmen+in+South+Korea
-https://www.mdpi.com/2071-1050/13/9/5230/pdf?version=1620386805
-
-# 048 - Community resilience and anxiety among Chinese older adults during COVID‐19: The moderating role of trust in local government
-# Original: https://scholar.google.com/scholar?q=Community+resilience+and+anxiety+among+Chinese+older+adults+during+COVID-19:+The+moderating+role+of+trust+in+local+government
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8426948
-
-# 050 - Individual, social and national coping resources and their relationships with mental health and anxiety: A comparative study in Israel, Italy, Spain, and the Netherlands during the Coronavirus pandemic
-# Original: https://scholar.google.com/scholar?q=Individual,+social+and+national+coping+resources+and+their+relationships+with+mental+health+and+anxiety:+A+comparative+study+in+Israel,+Italy,+Spain,+and+the+Netherlands+during+the+Coronavirus+pandemic
-https://journals.sagepub.com/doi/pdf/10.1177/1757975921992957
-
-# 051 - Trust, happiness, and households’ financial decisions
-# Original: https://scholar.google.com/scholar?q=Trust,+happiness,+and+households'+financial+decisions
-https://mpra.ub.uni-muenchen.de/64906/1/MPRA_paper_64906.pdf
-
-# 052 - Longitudinal association between trust, psychological symptoms and community engagement in resettled refugees
-# Original: https://scholar.google.com/scholar?q=Longitudinal+association+between+trust,+psychological+symptoms+and+community+engagement+in+resettled+refugees
-https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F2C391603D16952736E1EBD90E4C6299/S0033291718002246a.pdf/div-class-title-longitudinal-association-between-trust-psychological-symptoms-and-community-engagement-in-resettled-refugees-div.pdf
-
-# 053 - Social Capital and Mental Health in Rural and Urban China: A Composite Hypothesis Approach
-# Original: https://scholar.google.com/scholar?q=Social+Capital+and+Mental+Health+in+Rural+and+Urban+China:+A+Composite+Hypothesis+Approach
-https://www.mdpi.com/1660-4601/16/4/665/pdf?version=1551069085
-
-# 054 - My Children, Your Children, Our Children, and My Well-Being: Life Satisfaction of “Empty Nest” Biological Parents and Stepparents
-# Original: https://scholar.google.com/scholar?q=My+children,+your+children,+our+children,+and+my+well-being:+Life+satisfaction+of+"empty+nest"+biological+parents+and+stepparents
-https://link.springer.com/content/pdf/10.1007/s10902-019-00097-8.pdf
-
-# 056 - Association between social capital and sleep duration among rural older adults in China
-# Original: https://scholar.google.com/scholar?q=Association+between+social+capital+and+sleep+duration+among+rural+older+adults+in+China
-https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-021-12441-w
-
-# 057 - Why Inequality Makes Europeans Less Happy: The Role of Distrust, Status Anxiety, and Perceived Conflict
-# Original: https://scholar.google.com/scholar?q=Why+Inequality+Makes+Europeans+Less+Happy:+The+Role+of+Distrust,+Status+Anxiety,+and+Perceived+Conflict
-https://doi.org/10.1093/esr/jct033
-
-# 061 - Social Capital, Socioeconomic Status, and Health-Related Quality of Life Among Older Adults in Bogotá (Colombia)
-# Original: https://scholar.google.com/scholar?q=Social+capital,+socioeconomic+status,+and+health-related+quality+of+life+among+older+adults+in+Bogota+(Colombia)
-https://europepmc.org/articles/pmc4755298?pdf=render
-
-# 062 - Interpersonal Trust and Quality-of-Life: A Cross-Sectional Study in Japan
-# Original: https://scholar.google.com/scholar?q=Interpersonal+trust+and+quality-of-life:+a+cross-sectional+study+in+Japan
-https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0003985&type=printable
-
-# 063 - Lonely societies: low trust societies? Further explanations for national variations in loneliness among older Europeans
-# Original: https://scholar.google.com/scholar?q=Lonely+societies:+low+trust+societies?+Further+explanations+for+national+variations+in+loneliness+among+older+Europeans
-https://link.springer.com/content/pdf/10.1007/s10433-021-00649-z.pdf
-
-# 064 - How are you holding up? Personality, cognitive and social predictors of a perceived shift in subjective well-being during COVID-19 pandemic
-# Original: https://scholar.google.com/scholar?q=How+are+you+holding+up?+Personality,+cognitive+and+social+predictors+of+a+perceived+shift+in+subjective+well-being+during+COVID-19+pandemic
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523583
-
-# 065 - Life Satisfaction and Confidence in National Institutions: Evidence from South America
-# Original: https://scholar.google.com/scholar?q=Life+satisfaction+and+confidence+in+national+institutions:+Evidence+from+South+America
-https://link.springer.com/content/pdf/10.1007%2Fs11482-018-9606-3.pdf
-
-# 066 - Social capital, acculturation, mental health, and perceived access to services among Mexican American women.
-# Original: https://scholar.google.com/scholar?q=Social+Capital,+Acculturation,+Mental+Health,+and+Perceived+Access+to+Services+among+Mexican+American+Women
-https://europepmc.org/articles/pmc3314148?pdf=render
-
-# 067 - The Evolution in Anxiety and Depression with the Progression of the Pandemic in Adult Populations from Eight Countries and Four Continents
-# Original: https://scholar.google.com/scholar?q=The+Evolution+in+Anxiety+and+Depression+with+the+Progression+of+the+Pandemic+in+Adult+Populations+from+Eight+Countries+and+Four+Continents
-https://www.mdpi.com/1660-4601/18/9/4845/pdf?version=1619925741
-
-# 068 - Achieving Subjective Well-Being Around the World: The Moderating Influence of Gender, Age and National Goals for Socializing Children
-# Original: https://scholar.google.com/scholar?q=Achieving+Subjective+Well-Being+Around+the+World:+The+Moderating+Influence+of+Gender,+Age+and+National+Goals+for+Socializing+Children
-http://hdl.handle.net/10397/13351
-
-# 069 - The Effectiveness of Self-Employment of the Roma – A Quasi Experimental Design
-# Original: https://scholar.google.com/scholar?q=The+Effectiveness+of+Self-Employment+of+the+Roma+-+A+Quasi+Experimental+Design
-https://hrcak.srce.hr/file/337013
-
-# 071 - Do Informal Social Ties and Local Festival Participation Relate to Subjective Well-Being?
-# Original: https://scholar.google.com/scholar?q=Do+Informal+Social+Ties+and+Local+Festival+Participation+Relate+to+Subjective+Well-Being?
-https://www.mdpi.com/1660-4601/18/1/16/pdf?version=1608696487
-
-# 072 - The Trajectory of Subjective Well-Being: A Partial Explanation of the Marriage Advantage
-# Original: https://scholar.google.com/scholar?q=The+Trajectory+of+Subjective+Well-Being:+A+Partial+Explanation+of+the+Marriage+Advantage
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9230772
-
-# 074 - Unemployment and Psychological Distress among Young People during the COVID-19 Pandemic: Psychological Resources and Risk Factors
-# Original: https://scholar.google.com/scholar?q=Unemployment+and+Psychological+Distress+among+Young+People+during+the+COVID-19+Pandemic:+Psychological+Resources+and+Risk+Factors
-https://www.mdpi.com/1660-4601/17/19/7163/pdf?version=1601733515
-
-# 075 - Social capital and health among participants in the cachibol league in Israel
-# Original: https://scholar.google.com/scholar?q=Social+capital+and+health+among+participants+in+the+cachibol+league+in+Israel
-https://journals.sagepub.com/doi/pdf/10.1177/1012690220968114
-
-# 078 - African American Stepfather–Stepchild Relationships, Marital Quality, and Mental Health
-# Original: https://scholar.google.com/scholar?q=AFRICAN+AMERICAN+STEPFATHER-STEPCHILD+RELATIONSHIPS,+MARITAL+QUALITY,+AND+MENTAL+HEALTH
-https://europepmc.org/articles/pmc5330316?pdf=render
-
-# 081 - The effect of workplace violence on depression among medical staff in China: the mediating role of interpersonal distrust
-# Original: https://scholar.google.com/scholar?q=The+effect+of+workplace+violence+on+depression+among+medical+staff+in+China:+the+mediating+role+of+interpersonal+distrust
-https://www.researchsquare.com/article/rs-19254/v1.pdf
-
-# 084 - Mental health, interpersonal trust and subjective well-being in a high violence context
-# Original: https://scholar.google.com/scholar?q=Mental+health,+interpersonal+trust+and+subjective+well-being+in+a+high+violence+context
-https://doi.org/10.1016/j.ssmph.2019.100423
-
-# 086 - The Role of Collectivism–Individualism in Attitudes Toward Compliance and Psychological Responses During the COVID-19 Pandemic
-# Original: https://scholar.google.com/scholar?q=The+Role+of+Collectivism-Individualism+in+Attitudes+Toward+Compliance+and+Psychological+Responses+During+the+COVID-19+Pandemic
-https://doi.org/10.3389/fpsyg.2021.600826
-
-# 087 - The Influence of Perception of Social Equality and Social Trust on Subjective Well-Being Among Rural Chinese People: The Moderator Role of Education
-# Original: https://scholar.google.com/scholar?q=The+Influence+of+Perception+of+Social+Equality+and+Social+Trust+on+Subjective+Well-Being+Among+Rural+Chinese+People:+The+Moderator+Role+of+Education
-https://www.frontiersin.org/articles/10.3389/fpsyg.2021.731982/pdf
-
-# 088 - Social Network Sites, Individual Social Capital and Happiness
-# Original: https://scholar.google.com/scholar?q=Social+network+sites,+individual+social+capital+and+happiness
-https://papers.tinbergen.nl/16085.pdf
-
-# 090 - Trust After Terror: Institutional Trust Among Young Terror Survivors and Their Parents After the 22nd of July Terrorist Attack on Utøya Island, Norway
-# Original: https://scholar.google.com/scholar?q=Trust+after+terror:+Institutional+trust+among+young+terror+survivors+and+their+parents+after+the+22nd+of+July+terrorist+attack+on+Utoya+Island,+Norway
-https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02819/pdf
-
-# 091 - COVID-19 and psychological distress in Norway: The role of trust in the healthcare system
-# Original: https://scholar.google.com/scholar?q=COVID-19+and+psychological+distress+in+Norway:+The+role+of+trust+in+the+healthcare+system
-https://doi.org/10.1177/1403494820971512
-
-# 093 - Perceptions of Provider Communication Among Vulnerable Patients With Diabetes: Influences of Medical Mistrust and Health Literacy
-# Original: https://scholar.google.com/scholar?q=Perceptions+of+provider+communication+among+vulnerable+patients+with+diabetes:+Influences+of+medical+mistrust+and+health+literacy
-https://europepmc.org/articles/pmc5540358?pdf=render
-
-# 094 - Interpersonal Trauma Exposure and Depression in Young Adults: Considering the Role of World Assumptions
-# Original: https://scholar.google.com/scholar?q=Interpersonal+Trauma+Exposure+and+Depression+in+Young+Adults:+Considering+the+Role+of+World+Assumptions
-https://europepmc.org/articles/pmc7359202?pdf=render
-
-# 096 - Association between COVID-19 vaccine hesitancy and generalized trust, depression, generalized anxiety, and fear of COVID-19
-# Original: https://scholar.google.com/scholar?q=Association+between+COVID-19+vaccine+hesitancy+and+generalized+trust,+depression,+generalized+anxiety,+and+fear+of+COVID-19
-https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-021-12479-w
-
-# 097 - The Impact of Social Enterprises on Individual Wellbeing in South Korea: The Moderating Roles of Social Capital in Multilevel Analysis
-# Original: https://scholar.google.com/scholar?q=The+impact+of+social+enterprises+on+individual+wellbeing+in+South+Korea:+The+moderating+roles+of+social+capital+in+multilevel+analysis
-https://link.springer.com/content/pdf/10.1007/s11205-021-02759-8.pdf
-
-# 098 - Contribution of multiple pathways to the relationship between visual impairment and depression: Explaining mental health inequalities among older Chinese adults.
-# Original: https://scholar.google.com/scholar?q=Contribution+of+multiple+pathways+to+the+relationship+between+visual+impairment+and+depression:+Explaining+mental+health+inequalities+among+older+Chinese+adults
-https://doi.org/10.1016/j.jad.2020.09.068
-
-# 099 - Is There Social Capital in a Social Network Site?: Facebook Use and College Students' Life Satisfaction, Trust, and Participation
-# Original: https://scholar.google.com/scholar?q=Is+there+social+capital+in+a+social+network+site?:+Facebook+use+and+college+students'+life+satisfaction,+trust,+and+participation
-https://academic.oup.com/jcmc/article-pdf/14/4/875/22317792/jjcmcom0875.pdf
-
-# 101 - Ethnic Disparities in Social Capital and Health among Jewish and Arab Participants in the Israeli Mamanet Cachibol League
-# Original: https://scholar.google.com/scholar?q=Ethnic+Disparities+in+Social+Capital+and+Health+among+Jewish+and+Arab+Participants+in+the+Israeli+Mamanet+Cachibol+League
-https://www.mdpi.com/1660-4601/18/1/295/pdf
-
-# 102 - TRUST WITHIN A COMMUNITY IS A DOUBLE-EDGED SWORD: TRUST HAS A POSITIVE INDIVIDUAL-LEVEL EFFECT AND A NEGATIVE CONTEXTUAL EFFECT ON SUBJECTIVE WELL-BEING
-# Original: https://scholar.google.com/scholar?q=TRUST+WITHIN+A+COMMUNITY+IS+A+DOUBLE-EDGED+SWORD:+TRUST+HAS+A+POSITIVE+INDIVIDUAL-LEVEL+EFFECT+AND+A+NEGATIVE+CONTEXTUAL+EFFECT+ON+SUBJECTIVE+WELL-BEING
-https://www.jstage.jst.go.jp/article/psysoc/61/2/61_2019-B011/_pdf
-
-# 103 - What differs between happy and unhappy people?
-# Original: https://scholar.google.com/scholar?q=What+differs+between+happy+and+unhappy+people?
-https://springerplus.springeropen.com/track/pdf/10.1186/s40064-016-1929-7
-
-# 104 - Psychological Mechanisms Linking County-Level Income Inequality to Happiness in China
-# Original: https://scholar.google.com/scholar?q=Psychological+Mechanisms+Linking+County-Level+Income+Inequality+to+Happiness+in+China
-https://www.mdpi.com/1660-4601/15/12/2667/pdf?version=1543315798
-
-# 105 - The Impact of Trust on the Willingness of Co-Tenancy Behavior: Evidence from China
-# Original: https://scholar.google.com/scholar?q=The+Impact+of+Trust+on+the+Willingness+of+Co-Tenancy+Behavior:+Evidence+from+China
-https://www.dovepress.com/getfile.php?fileID=68029
-
-# 106 - The Perceived Impact of Social Networking Sites and Apps on the Social Capital of Saudi Postgraduate Students: A Case Study
-# Original: https://scholar.google.com/scholar?q=The+Perceived+Impact+of+Social+Networking+Sites+and+Apps+on+the+Social+Capital+of+Saudi+Postgraduate+Students:+A+Case+Study
-https://www.mdpi.com/1999-5903/13/1/20/pdf?version=1611208308
-
-# 107 - The Determinants of Subjective Well-Being in a Developing Country: The Ecuadorian Case
-# Original: https://scholar.google.com/scholar?q=The+Determinants+of+Subjective+Well-Being+in+a+Developing+Country:+The+Ecuadorian+Case
-https://link.springer.com/content/pdf/10.1007/s10902-019-00211-w.pdf
-
-# 108 - Pathways Improving Compliance with Preventive Behaviors during the Remission Period of the COVID-19 Pandemic
-# Original: https://scholar.google.com/scholar?q=Pathways+Improving+Compliance+with+Preventive+Behaviors+during+the+Remission+Period+of+the+COVID-19+Pandemic
-https://doi.org/10.3390/ijerph18073512
-
-# 109 - Impact of political violence, social trust, and depression on civic participation in Colombia.
+# 001 - Impact of political violence, social trust, and depression on civic participation in Colombia.
 # Original: https://scholar.google.com/scholar?q=Impact+of+political+violence,+social+trust,+and+depression+on+civic+participation+in+Colombia
 https://pure.qub.ac.uk/files/16000162/Taylor_for_PURE_2_.pdf
 
-# 110 - Effects of the COVID-19 pandemic and nationwide lockdown on trust, attitudes toward government, and well-being.
+# 002 - Effects of the COVID-19 pandemic and nationwide lockdown on trust, attitudes toward government, and well-being.
 # Original: https://scholar.google.com/scholar?q=Effects+of+the+COVID-19+pandemic+and+nationwide+lockdown+on+trust,+attitudes+toward+government,+and+well-being
 https://psyarxiv.com/cx6qa/download
 
-# 111 - The Inefficiency of the Neoclassical Paradigm in the Promotion of Subjective Well-Being and Socioeconomic, and Environmental Sustainability: An Empirical Test for the Spanish Case
+# 003 - The Inefficiency of the Neoclassical Paradigm in the Promotion of Subjective Well-Being and Socioeconomic, and Environmental Sustainability: An Empirical Test for the Spanish Case
 # Original: https://scholar.google.com/scholar?q=The+Inefficiency+of+the+Neoclassical+Paradigm+in+the+Promotion+of+Subjective+Well-Being+and+Socioeconomic,+and+Environmental+Sustainability:+An+Empirical+Test+for+the+Spanish+Case
 https://www.mdpi.com/2071-1050/11/24/7102/pdf?version=1576566891
 
-# 113 - Gender differences in the association between cognitive social capital, self-rated health, and depressive symptoms: a comparative analysis of Sweden and Ukraine
+# 005 - Gender differences in the association between cognitive social capital, self-rated health, and depressive symptoms: a comparative analysis of Sweden and Ukraine
 # Original: https://scholar.google.com/scholar?q=Gender+differences+in+the+association+between+cognitive+social+capital,+self-rated+health,+and+depressive+symptoms:+A+comparative+analysis+of+Sweden+and+Ukraine
 https://ijmhs.biomedcentral.com/track/pdf/10.1186/s13033-016-0068-4
 
-# 116 - The Hidden Costs of Mental Depression: Implications on Social Trust and Life Satisfaction
+# 006 - Quality of life, health, and government perception during COVID-19 times: Data from Colombia
+# Original: https://scholar.google.com/scholar?q=Quality+of+life,+health,+and+government+perception+during+COVID-19+times:+Data+from+Colombia
+https://doi.org/10.1016/j.dib.2021.107268
+
+# 007 - Educational Inequalities in Women’s Depressive Symptoms: The Mediating Role of Perceived Neighbourhood Characteristics
+# Original: https://scholar.google.com/scholar?q=Educational+inequalities+in+women's+depressive+symptoms:+the+mediating+role+of+perceived+neighbourhood+characteristics
+https://www.mdpi.com/1660-4601/9/12/4241/pdf?version=1403139993
+
+# 008 - The Hidden Costs of Mental Depression: Implications on Social Trust and Life Satisfaction
 # Original: https://scholar.google.com/scholar?q=The+Hidden+Costs+of+Mental+Depression:+Implications+on+Social+Trust+and+Life+Satisfaction
 https://nottingham-repository.worktribe.com/preview/830578/Hidden%20Costs%20of%20Depression%20170917.pdf
 
-# 118 - Job insecurity and trust: Uncovering a mechanism linking job insecurity to well-being
+# 010 - Job insecurity and trust: Uncovering a mechanism linking job insecurity to well-being
 # Original: https://scholar.google.com/scholar?q=Job+insecurity+and+trust:+Uncovering+a+mechanism+linking+job+insecurity+to+well-being
 https://www.tandfonline.com/doi/pdf/10.1080/02678373.2018.1461709?needAccess=true
 
-# 119 - The relationship between trust in primary healthcare providers among patients with diabetes and levels of depression and anxiety
-# Original: https://scholar.google.com/scholar?q=The+relationship+between+trust+in+primary+healthcare+providers+among+patients+with+diabetes+and+levels+of+depression+and+anxiety
-https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0239035&type=printable
-
-# 120 - When is happy also prosocial? The relationship between happiness and social orientation depends on trust, agency and communion
+# 012 - When is happy also prosocial? The relationship between happiness and social orientation depends on trust, agency and communion
 # Original: https://scholar.google.com/scholar?q=When+is+happy+also+prosocial?+The+relationship+between+happiness+and+social+orientation+depends+on+trust,+agency+and+communion
 http://cipp.ug.edu.pl/pdf-128059-73738?filename=When is happy also.pdf
 
-# 121 - Social Exclusion, Subjective Academic Success, Well-Being, and the Meaning of Trust
+# 013 - Social Exclusion, Subjective Academic Success, Well-Being, and the Meaning of Trust
 # Original: https://scholar.google.com/scholar?q=Social+Exclusion,+Subjective+Academic+Success,+Well-Being,+and+the+Meaning+of+Trust
 https://doi.org/10.1026/0049-8637/a000236
 
-# 122 - Hate and harassment in academia: the rising concern of the online environment
+# 014 - Hate and harassment in academia: the rising concern of the online environment
 # Original: https://scholar.google.com/scholar?q=Hate+and+harassment+in+academia:+the+rising+concern+of+the+online+environment
 https://link.springer.com/content/pdf/10.1007/s10734-021-00787-4.pdf
 
-# 124 - A Multilevel Modeling Study of the Influence of Relationship Enhancing Traits and Individualism on Satisfaction with Life Across Nations
+# 015 - The Positive Effect of Nature Connectedness on Psychological Wellbeing: The Significance of Trust as a Mediator
+# Original: https://scholar.google.com/scholar?q=THE+POSITIVE+EFFECT+OF+NATURE+CONNECTEDNESS+ON+PSYCHOLOGICAL+WELLBEING:+THE+SIGNIFICANCE+OF+TRUST+AS+A+MEDIATOR
+https://psy-journal.hse.ru/data/2019/12/03/1522337950/2019-1-2.pdf
+
+# 016 - A Multilevel Modeling Study of the Influence of Relationship Enhancing Traits and Individualism on Satisfaction with Life Across Nations
 # Original: https://scholar.google.com/scholar?q=A+MULTILEVEL+MODELING+STUDY+OF+THE+INFLUENCE+OF+RELATIONSHIP+ENHANCING+TRAITS+AND+INDIVIDUALISM+ON+SATISFACTION+WITH+LIFE+ACROSS+NATIONS
 http://revistas.uned.es/index.php/accionpsicologica/article/download/22260/19383
 
-# 125 - Does Variation in the Extent of Generalized Trust, Individual Education and Extensiveness of Social Security Policies Matter for Maximization of Subjective Well-Being?.
+# 017 - Does Variation in the Extent of Generalized Trust, Individual Education and Extensiveness of Social Security Policies Matter for Maximization of Subjective Well-Being?.
 # Original: https://scholar.google.com/scholar?q=Does+Variation+in+the+Extent+of+Generalized+Trust,+Individual+Education+and+Extensiveness+of+Social+Security+Policies+Matter+for+Maximization+of+Subjective+Well-Being?
 http://dergipark.gov.tr/download/article-file/272071
 
-# 127 - Psychosocial factors associated with routine health examination scheduling and receipt among African American men.
+# 019 - Psychosocial factors associated with routine health examination scheduling and receipt among African American men.
 # Original: https://scholar.google.com/scholar?q=Psychosocial+factors+associated+with+routine+health+examination+scheduling+and+receipt+among+African+American+men
 https://europepmc.org/articles/pmc2865157?pdf=render
+
+# 020 - Depressive and anxious symptomatology in a Lebanese sample during the COVID-19 outbreak
+# Original: https://scholar.google.com/scholar?q=Depressive+and+anxious+symptomatology+in+a+Lebanese+sample+during+the+COVID-19+outbreak
+https://doi.org/10.1080/14635240.2021.1950561
+
+# 021 - Trusting Only Whom You Know, Knowing Only Whom You Trust: The Joint Impact of Social Capital and Trust on Happiness in CEE Countries
+# Original: https://scholar.google.com/scholar?q=Trusting+only+whom+you+know,+knowing+only+whom+you+trust:+The+joint+impact+of+social+capital+and+trust+on+happiness+in+CEE+countries
+https://link.springer.com/content/pdf/10.1007/s10902-013-9461-8.pdf
+
+# 022 - The Effects of the 2016 Copa América Centenario Victory on Social Trust, Self-Transcendent Aspirations and Evaluated Subjective Well-Being: The Role of Identity With the National Team and Collective Pride in Major Sport Events
+# Original: https://scholar.google.com/scholar?q=The+effects+of+the+2016+Copa+America+Centenario+victory+on+social+trust,+self-transcendent+aspirations+and+evaluated+subjective+well-being+The+role+of+identity+with+the+national+team+and+collective+pride+in+major+sport+events
+https://www.frontiersin.org/articles/10.3389/fpsyg.2020.591498/pdf
+
+# 024 - Gender-related differences in the multi-pathway effect of social determinants on quality of life in older age—the COURAGE in Europe project
+# Original: https://scholar.google.com/scholar?q=Gender-related+differences+in+the+multi-pathway+effect+of+social+determinants+on+quality+of+life+in+older+age-The+COURAGE+in+Europe+project
+https://link.springer.com/content/pdf/10.1007%2Fs11136-017-1530-8.pdf
+
+# 026 - Young People’s Well-Being and the Association with Social Capital, i.e. Social Networks, Trust and Reciprocity
+# Original: https://scholar.google.com/scholar?q=Young+people's+well-being+and+the+association+with+social+capital,+i.e.+social+networks,+trust+and+reciprocity
+https://link.springer.com/content/pdf/10.1007/s11205-021-02762-z.pdf
+
+# 029 - Local Impact of Global Crises, Institutional Trust, and Consumer Well-Being: Evidence from the COVID-19 Pandemic
+# Original: https://scholar.google.com/scholar?q=Local+Impact+of+Global+Crises,+Institutional+Trust,+and+Consumer+Well-Being:+Evidence+from+the+COVID-19+Pandemic
+https://eprints.whiterose.ac.uk/174205/3/Davvetas%2C%20Ulqinaku%20%26%20Sarial-Abi%2C%202021.pdf
+
+# 030 - Mediating Effect of Cognitive Social Capital on the Relationship Between Physical Disability and Depression in Elderly People of Rural Pakistan
+# Original: https://scholar.google.com/scholar?q=Mediating+Effect+of+Cognitive+Social+Capital+on+the+Relationship+Between+Physical+Disability+and+Depression+in+Elderly+People+of+Rural+Pakistan
+https://www.mdpi.com/1660-4601/16/21/4232/pdf?version=1572533023
+
+# 031 - Depressive Symptoms and Trust of Healthcare Provider in Rural Adolescents: Relationships and Predictors
+# Original: https://scholar.google.com/scholar?q=Depressive+Symptoms+and+Trust+of+Healthcare+Provider+in+Rural+Adolescents:+Relationships+and+Predictors
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7855091
+
+# 032 - Associations of Psychosocial Factors with Multiple Health Behaviors: A Population-Based Study of Middle-Aged Men and Women
+# Original: https://scholar.google.com/scholar?q=Associations+of+Psychosocial+Factors+with+Multiple+Health+Behaviors:+A+Population-Based+Study+of+Middle-Aged+Men+and+Women
+https://www.mdpi.com/1660-4601/17/4/1239/pdf?version=1582372213
+
+# 034 - Factors associated with fear of intimacy among a representative sample of the Lebanese population: The role of depression, social phobia, self-esteem, intimate partner violence, attachment, and maladaptive schemas.
+# Original: https://scholar.google.com/scholar?q=Factors+associated+with+fear+of+intimacy+among+a+representative+sample+of+the+Lebanese+population:+The+role+of+depression,+social+phobia,+self-esteem,+intimate+partner+violence,+attachment,+and+maladaptive+schemas
+https://doi.org/10.1111/ppc.12438
+
+# 035 - The relation between older adults’ trust beliefs in nursing home carers and adjustment to residential care
+# Original: https://scholar.google.com/scholar?q=The+relation+between+older+adults'+trust+beliefs+in+nursing+home+carers+and+adjustment+to+residential+care
+https://doi.org/10.1017/s0144686x21000301
+
+# 036 - Inter- and intra-household perceived relative inequality among disabled and non-disabled people in Liberia
+# Original: https://scholar.google.com/scholar?q=Inter-+and+intra-household+perceived+relative+inequality+among+disabled+and+non-disabled+people+in+Liberia
+https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0217873&type=printable
+
+# 037 - The impact of a failed coup d’état on happiness, life satisfaction, and trust: the case of the plot in Turkey on July 15, 2016
+# Original: https://scholar.google.com/scholar?q=The+impact+of+a+failed+coup+d'etat+on+happiness,+life+satisfaction,+and+trust:+the+case+of+the+plot+in+Turkey+on+July+15,+2016
+https://agi.repo.nii.ac.jp/record/183/files/WP2019-10.pdf
+
+# 039 - How Trust Makes a Difference: The Impact of the First Wave of the COVID-19 Pandemic on Life Satisfaction in Germany
+# Original: https://scholar.google.com/scholar?q=How+Trust+Makes+a+Difference:+The+Impact+of+the+First+Wave+of+the+COVID-19+Pandemic+on+Life+Satisfaction+in+Germany
+https://link.springer.com/content/pdf/10.1007/s11482-021-09956-0.pdf
+
+# 041 - Social and Psychological Factors of Political Participation according to Recent European Social Survey Data
+# Original: https://scholar.google.com/scholar?q=Social+and+Psychological+Factors+of+Political+Participation+according+to+Recent+European+Social+Survey+Data
+https://doi.org/10.17356/ieejsp.v5i3.488
+
+# 043 - General trust scale: Validation in cross-cultural settings
+# Original: https://scholar.google.com/scholar?q=General+trust+scale:+Validation+in+cross-cultural+settings
+https://link.springer.com/content/pdf/10.1007/s12144-019-00435-2.pdf
+
+# 044 - Can You Hear Me Now? Effects of Patient-Centered Communication With Young Adults Aged 26 to 39
+# Original: https://scholar.google.com/scholar?q=Can+You+Hear+Me+Now?+Effects+of+Patient-Centered+Communication+With+Young+Adults+Aged+26+to+39
+https://journals.sagepub.com/doi/pdf/10.1177/23743735211033116
+
+# 046 - Happiness and life satisfaction in Rwanda
+# Original: https://scholar.google.com/scholar?q=Happiness+and+life+satisfaction+in+Rwanda
+https://eprints.whiterose.ac.uk/124273/1/Happiness_and_Life_Satisfaction_in_Rwanda_accepted_version.pdf
+
+# 050 - The hardships of the poorest during the COVID-19 pandemic: Data about the socioeconomic conditions and governance of informal workers
+# Original: https://scholar.google.com/scholar?q=The+hardships+of+the+poorest+during+the+COVID-19+pandemic:+Data+about+the+socioeconomic+conditions+and+governance+of+informal+workers
+https://doi.org/10.1016/j.dib.2021.107728
+
+# 052 - The mediation effect of political interest on the connection between social trust and wellbeing among older adults
+# Original: https://scholar.google.com/scholar?q=The+mediation+effect+of+political+interest+on+the+connection+between+social+trust+and+wellbeing+among+older+adults
+https://figshare.com/articles/journal_contribution/The_mediation_effect_of_political_interest_on_the_connection_between_social_trust_and_wellbeing_among_older_adults/9576323/1/files/17210459.pdf
+
+# 055 - Mediated roles of generalized trust and perceived social support in the effects of problematic social media use on mental health: A cross‐sectional study
+# Original: https://scholar.google.com/scholar?q=Mediated+roles+of+generalized+trust+and+perceived+social+support+in+the+effects+of+problematic+social+media+use+on+mental+health:+A+cross-sectional+study
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.13169
+
+# 056 - Epidemic Risk Perception, Perceived Stress, and Mental Health During COVID-19 Pandemic: A Moderated Mediating Model
+# Original: https://scholar.google.com/scholar?q=Epidemic+Risk+Perception,+Perceived+Stress,+and+Mental+Health+During+COVID-19+Pandemic:+A+Moderated+Mediating+Model
+https://www.frontiersin.org/articles/10.3389/fpsyg.2020.563741/pdf
+
+# 058 - Living in opposition: How women in the United States cope in spite of mistrust of federal leadership during the pandemic of Covid‐19
+# Original: https://scholar.google.com/scholar?q=Living+in+opposition:+How+women+in+the+United+States+cope+in+spite+of+mistrust+of+federal+leadership+during+the+pandemic+of+Covid-19
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8251460
+
+# 060 - Does young adults’ life satisfaction promote tolerance towards immigrants? The role of political satisfaction and social trust
+# Original: https://scholar.google.com/scholar?q=Does+young+adults'+life+satisfaction+promote+tolerance+towards+immigrants?+The+role+of+political+satisfaction+and+social+trust
+https://link.springer.com/content/pdf/10.1007/s12144-021-01923-0.pdf
+
+# 061 - Perceived Corruption and Individuals’ Life Satisfaction: The Mediating Role of Institutional Trust
+# Original: https://scholar.google.com/scholar?q=Perceived+corruption+and+individuals'+life+satisfaction:+The+mediating+role+of+institutional+trust
+https://iris.unipa.it/bitstream/10447/300805/6/Ciziceno-Travaglino2019_Article_PerceivedCorruptionAndIndividu.pdf
+
+# 062 - Relationship between healthy elderly individual social capital and health according to ward level in Tomi City, Nagano Prefecture: an ecological study
+# Original: https://scholar.google.com/scholar?q=Relationship+between+healthy+elderly+individual+social+capital+and+health+according+to+ward+level+in+Tomi+City,+Nagano+Prefecture:+an+ecological+study
+https://www.jstage.jst.go.jp/article/jrm/14/1/14_2979/_pdf
+
+# 063 - Trust in mutual aid group members, self-management of chronic illness, and well-being among young patients with chronic illness in Hong Kong
+# Original: https://scholar.google.com/scholar?q=Trust+in+mutual+aid+group+members,+self-management+of+chronic+illness,+and+well-being+among+young+patients+with+chronic+illness+in+Hong+Kong
+https://doi.org/10.1016/j.childyouth.2021.106240
+
+# 064 - The Impact of Telework and Closure of Educational and Childcare Facilities on Working People During COVID-19
+# Original: https://scholar.google.com/scholar?q=The+Impact+of+Telework+and+Closure+of+Educational+and+Childcare+Facilities+on+Working+People+During+COVID-19
+https://doi.org/10.1026/0932-4089/a000370
+
+# 065 - An Exploratory Study of Factors That Affect Psychological Well-Being of 4-Year College Freshmen in South Korea
+# Original: https://scholar.google.com/scholar?q=An+Exploratory+Study+of+Factors+That+Affect+Psychological+Well-Being+of+4-Year+College+Freshmen+in+South+Korea
+https://www.mdpi.com/2071-1050/13/9/5230/pdf?version=1620386805
+
+# 067 - Community resilience and anxiety among Chinese older adults during COVID‐19: The moderating role of trust in local government
+# Original: https://scholar.google.com/scholar?q=Community+resilience+and+anxiety+among+Chinese+older+adults+during+COVID-19:+The+moderating+role+of+trust+in+local+government
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8426948
+
+# 069 - Individual, social and national coping resources and their relationships with mental health and anxiety: A comparative study in Israel, Italy, Spain, and the Netherlands during the Coronavirus pandemic
+# Original: https://scholar.google.com/scholar?q=Individual,+social+and+national+coping+resources+and+their+relationships+with+mental+health+and+anxiety:+A+comparative+study+in+Israel,+Italy,+Spain,+and+the+Netherlands+during+the+Coronavirus+pandemic
+https://journals.sagepub.com/doi/pdf/10.1177/1757975921992957
+
+# 070 - Trust, happiness, and households’ financial decisions
+# Original: https://scholar.google.com/scholar?q=Trust,+happiness,+and+households'+financial+decisions
+https://mpra.ub.uni-muenchen.de/64906/1/MPRA_paper_64906.pdf
+
+# 071 - Longitudinal association between trust, psychological symptoms and community engagement in resettled refugees
+# Original: https://scholar.google.com/scholar?q=Longitudinal+association+between+trust,+psychological+symptoms+and+community+engagement+in+resettled+refugees
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F2C391603D16952736E1EBD90E4C6299/S0033291718002246a.pdf/div-class-title-longitudinal-association-between-trust-psychological-symptoms-and-community-engagement-in-resettled-refugees-div.pdf
+
+# 072 - Social Capital and Mental Health in Rural and Urban China: A Composite Hypothesis Approach
+# Original: https://scholar.google.com/scholar?q=Social+Capital+and+Mental+Health+in+Rural+and+Urban+China:+A+Composite+Hypothesis+Approach
+https://www.mdpi.com/1660-4601/16/4/665/pdf?version=1551069085
+
+# 073 - My Children, Your Children, Our Children, and My Well-Being: Life Satisfaction of “Empty Nest” Biological Parents and Stepparents
+# Original: https://scholar.google.com/scholar?q=My+children,+your+children,+our+children,+and+my+well-being:+Life+satisfaction+of+"empty+nest"+biological+parents+and+stepparents
+https://link.springer.com/content/pdf/10.1007/s10902-019-00097-8.pdf
+
+# 075 - Association between social capital and sleep duration among rural older adults in China
+# Original: https://scholar.google.com/scholar?q=Association+between+social+capital+and+sleep+duration+among+rural+older+adults+in+China
+https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-021-12441-w
+
+# 076 - Why Inequality Makes Europeans Less Happy: The Role of Distrust, Status Anxiety, and Perceived Conflict
+# Original: https://scholar.google.com/scholar?q=Why+Inequality+Makes+Europeans+Less+Happy:+The+Role+of+Distrust,+Status+Anxiety,+and+Perceived+Conflict
+https://doi.org/10.1093/esr/jct033
+
+# 080 - Social Capital, Socioeconomic Status, and Health-Related Quality of Life Among Older Adults in Bogotá (Colombia)
+# Original: https://scholar.google.com/scholar?q=Social+capital,+socioeconomic+status,+and+health-related+quality+of+life+among+older+adults+in+Bogota+(Colombia)
+https://europepmc.org/articles/pmc4755298?pdf=render
+
+# 081 - Interpersonal Trust and Quality-of-Life: A Cross-Sectional Study in Japan
+# Original: https://scholar.google.com/scholar?q=Interpersonal+trust+and+quality-of-life:+a+cross-sectional+study+in+Japan
+https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0003985&type=printable
+
+# 083 - How are you holding up? Personality, cognitive and social predictors of a perceived shift in subjective well-being during COVID-19 pandemic
+# Original: https://scholar.google.com/scholar?q=How+are+you+holding+up?+Personality,+cognitive+and+social+predictors+of+a+perceived+shift+in+subjective+well-being+during+COVID-19+pandemic
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523583
+
+# 084 - Life Satisfaction and Confidence in National Institutions: Evidence from South America
+# Original: https://scholar.google.com/scholar?q=Life+satisfaction+and+confidence+in+national+institutions:+Evidence+from+South+America
+https://link.springer.com/content/pdf/10.1007%2Fs11482-018-9606-3.pdf
+
+# 085 - Social capital, acculturation, mental health, and perceived access to services among Mexican American women.
+# Original: https://scholar.google.com/scholar?q=Social+Capital,+Acculturation,+Mental+Health,+and+Perceived+Access+to+Services+among+Mexican+American+Women
+https://europepmc.org/articles/pmc3314148?pdf=render
+
+# 086 - The Evolution in Anxiety and Depression with the Progression of the Pandemic in Adult Populations from Eight Countries and Four Continents
+# Original: https://scholar.google.com/scholar?q=The+Evolution+in+Anxiety+and+Depression+with+the+Progression+of+the+Pandemic+in+Adult+Populations+from+Eight+Countries+and+Four+Continents
+https://www.mdpi.com/1660-4601/18/9/4845/pdf?version=1619925741
+
+# 087 - Achieving Subjective Well-Being Around the World: The Moderating Influence of Gender, Age and National Goals for Socializing Children
+# Original: https://scholar.google.com/scholar?q=Achieving+Subjective+Well-Being+Around+the+World:+The+Moderating+Influence+of+Gender,+Age+and+National+Goals+for+Socializing+Children
+http://hdl.handle.net/10397/13351
+
+# 088 - The Effectiveness of Self-Employment of the Roma – A Quasi Experimental Design
+# Original: https://scholar.google.com/scholar?q=The+Effectiveness+of+Self-Employment+of+the+Roma+-+A+Quasi+Experimental+Design
+https://hrcak.srce.hr/file/337013
+
+# 090 - Do Informal Social Ties and Local Festival Participation Relate to Subjective Well-Being?
+# Original: https://scholar.google.com/scholar?q=Do+Informal+Social+Ties+and+Local+Festival+Participation+Relate+to+Subjective+Well-Being?
+https://www.mdpi.com/1660-4601/18/1/16/pdf?version=1608696487
+
+# 091 - The Trajectory of Subjective Well-Being: A Partial Explanation of the Marriage Advantage
+# Original: https://scholar.google.com/scholar?q=The+Trajectory+of+Subjective+Well-Being:+A+Partial+Explanation+of+the+Marriage+Advantage
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9230772
+
+# 093 - Unemployment and Psychological Distress among Young People during the COVID-19 Pandemic: Psychological Resources and Risk Factors
+# Original: https://scholar.google.com/scholar?q=Unemployment+and+Psychological+Distress+among+Young+People+during+the+COVID-19+Pandemic:+Psychological+Resources+and+Risk+Factors
+https://www.mdpi.com/1660-4601/17/19/7163/pdf?version=1601733515
+
+# 094 - Social capital and health among participants in the cachibol league in Israel
+# Original: https://scholar.google.com/scholar?q=Social+capital+and+health+among+participants+in+the+cachibol+league+in+Israel
+https://journals.sagepub.com/doi/pdf/10.1177/1012690220968114
+
+# 097 - African American Stepfather–Stepchild Relationships, Marital Quality, and Mental Health
+# Original: https://scholar.google.com/scholar?q=AFRICAN+AMERICAN+STEPFATHER-STEPCHILD+RELATIONSHIPS,+MARITAL+QUALITY,+AND+MENTAL+HEALTH
+https://europepmc.org/articles/pmc5330316?pdf=render
+
+# 100 - The effect of workplace violence on depression among medical staff in China: the mediating role of interpersonal distrust
+# Original: https://scholar.google.com/scholar?q=The+effect+of+workplace+violence+on+depression+among+medical+staff+in+China:+the+mediating+role+of+interpersonal+distrust
+https://www.researchsquare.com/article/rs-19254/v1.pdf
+
+# 105 - The Role of Collectivism–Individualism in Attitudes Toward Compliance and Psychological Responses During the COVID-19 Pandemic
+# Original: https://scholar.google.com/scholar?q=The+Role+of+Collectivism-Individualism+in+Attitudes+Toward+Compliance+and+Psychological+Responses+During+the+COVID-19+Pandemic
+https://doi.org/10.3389/fpsyg.2021.600826
+
+# 106 - The Influence of Perception of Social Equality and Social Trust on Subjective Well-Being Among Rural Chinese People: The Moderator Role of Education
+# Original: https://scholar.google.com/scholar?q=The+Influence+of+Perception+of+Social+Equality+and+Social+Trust+on+Subjective+Well-Being+Among+Rural+Chinese+People:+The+Moderator+Role+of+Education
+https://www.frontiersin.org/articles/10.3389/fpsyg.2021.731982/pdf
+
+# 107 - Social Network Sites, Individual Social Capital and Happiness
+# Original: https://scholar.google.com/scholar?q=Social+network+sites,+individual+social+capital+and+happiness
+https://papers.tinbergen.nl/16085.pdf
+
+# 108 - Differences between Chinese Adolescent Immigrants and Adolescent Non-Immigrants in Hong Kong: Perceived Psychosocial Attributes, School Environment and Characteristics of Hong Kong Adolescents
+# Original: https://scholar.google.com/scholar?q=Differences+between+Chinese+Adolescent+Immigrants+and+Adolescent+Non-Immigrants+in+Hong+Kong:+Perceived+Psychosocial+Attributes,+School+Environment+and+Characteristics+of+Hong+Kong+Adolescents
+https://www.mdpi.com/1660-4601/18/7/3739/pdf?version=1617939941
+
+# 109 - Trust After Terror: Institutional Trust Among Young Terror Survivors and Their Parents After the 22nd of July Terrorist Attack on Utøya Island, Norway
+# Original: https://scholar.google.com/scholar?q=Trust+after+terror:+Institutional+trust+among+young+terror+survivors+and+their+parents+after+the+22nd+of+July+terrorist+attack+on+Utoya+Island,+Norway
+https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02819/pdf
+
+# 110 - COVID-19 and psychological distress in Norway: The role of trust in the healthcare system
+# Original: https://scholar.google.com/scholar?q=COVID-19+and+psychological+distress+in+Norway:+The+role+of+trust+in+the+healthcare+system
+https://doi.org/10.1177/1403494820971512
+
+# 112 - Perceptions of Provider Communication Among Vulnerable Patients With Diabetes: Influences of Medical Mistrust and Health Literacy
+# Original: https://scholar.google.com/scholar?q=Perceptions+of+provider+communication+among+vulnerable+patients+with+diabetes:+Influences+of+medical+mistrust+and+health+literacy
+https://europepmc.org/articles/pmc5540358?pdf=render
+
+# 113 - Interpersonal Trauma Exposure and Depression in Young Adults: Considering the Role of World Assumptions
+# Original: https://scholar.google.com/scholar?q=Interpersonal+Trauma+Exposure+and+Depression+in+Young+Adults:+Considering+the+Role+of+World+Assumptions
+https://europepmc.org/articles/pmc7359202?pdf=render
+
+# 115 - Association between COVID-19 vaccine hesitancy and generalized trust, depression, generalized anxiety, and fear of COVID-19
+# Original: https://scholar.google.com/scholar?q=Association+between+COVID-19+vaccine+hesitancy+and+generalized+trust,+depression,+generalized+anxiety,+and+fear+of+COVID-19
+https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-021-12479-w
+
+# 116 - The Impact of Social Enterprises on Individual Wellbeing in South Korea: The Moderating Roles of Social Capital in Multilevel Analysis
+# Original: https://scholar.google.com/scholar?q=The+impact+of+social+enterprises+on+individual+wellbeing+in+South+Korea:+The+moderating+roles+of+social+capital+in+multilevel+analysis
+https://link.springer.com/content/pdf/10.1007/s11205-021-02759-8.pdf
+
+# 117 - Contribution of multiple pathways to the relationship between visual impairment and depression: Explaining mental health inequalities among older Chinese adults.
+# Original: https://scholar.google.com/scholar?q=Contribution+of+multiple+pathways+to+the+relationship+between+visual+impairment+and+depression:+Explaining+mental+health+inequalities+among+older+Chinese+adults
+https://doi.org/10.1016/j.jad.2020.09.068
+
+# 118 - Is There Social Capital in a Social Network Site?: Facebook Use and College Students' Life Satisfaction, Trust, and Participation
+# Original: https://scholar.google.com/scholar?q=Is+there+social+capital+in+a+social+network+site?:+Facebook+use+and+college+students'+life+satisfaction,+trust,+and+participation
+https://academic.oup.com/jcmc/article-pdf/14/4/875/22317792/jjcmcom0875.pdf
+
+# 119 - Sustainable Careers: Reliability of Job Satisfaction Predictors for Employees Aged 50+. Evidence from Romanian Development Regions
+# Original: https://scholar.google.com/scholar?q=Sustainable+Careers:+Reliability+of+Job+Satisfaction+Predictors+for+Employees+Aged+50+.+Evidence+from+Romanian+Development+Regions
+https://www.mdpi.com/2071-1050/13/15/8133/pdf?version=1627466078
+
+# 120 - Ethnic Disparities in Social Capital and Health among Jewish and Arab Participants in the Israeli Mamanet Cachibol League
+# Original: https://scholar.google.com/scholar?q=Ethnic+Disparities+in+Social+Capital+and+Health+among+Jewish+and+Arab+Participants+in+the+Israeli+Mamanet+Cachibol+League
+https://www.mdpi.com/1660-4601/18/1/295/pdf
+
+# 121 - TRUST WITHIN A COMMUNITY IS A DOUBLE-EDGED SWORD: TRUST HAS A POSITIVE INDIVIDUAL-LEVEL EFFECT AND A NEGATIVE CONTEXTUAL EFFECT ON SUBJECTIVE WELL-BEING
+# Original: https://scholar.google.com/scholar?q=TRUST+WITHIN+A+COMMUNITY+IS+A+DOUBLE-EDGED+SWORD:+TRUST+HAS+A+POSITIVE+INDIVIDUAL-LEVEL+EFFECT+AND+A+NEGATIVE+CONTEXTUAL+EFFECT+ON+SUBJECTIVE+WELL-BEING
+https://www.jstage.jst.go.jp/article/psysoc/61/2/61_2019-B011/_pdf
+
+# 122 - What differs between happy and unhappy people?
+# Original: https://scholar.google.com/scholar?q=What+differs+between+happy+and+unhappy+people?
+https://springerplus.springeropen.com/track/pdf/10.1186/s40064-016-1929-7
+
+# 123 - Psychological Mechanisms Linking County-Level Income Inequality to Happiness in China
+# Original: https://scholar.google.com/scholar?q=Psychological+Mechanisms+Linking+County-Level+Income+Inequality+to+Happiness+in+China
+https://www.mdpi.com/1660-4601/15/12/2667/pdf?version=1543315798
+
+# 124 - The Impact of Trust on the Willingness of Co-Tenancy Behavior: Evidence from China
+# Original: https://scholar.google.com/scholar?q=The+Impact+of+Trust+on+the+Willingness+of+Co-Tenancy+Behavior:+Evidence+from+China
+https://www.dovepress.com/getfile.php?fileID=68029
+
+# 125 - The Perceived Impact of Social Networking Sites and Apps on the Social Capital of Saudi Postgraduate Students: A Case Study
+# Original: https://scholar.google.com/scholar?q=The+Perceived+Impact+of+Social+Networking+Sites+and+Apps+on+the+Social+Capital+of+Saudi+Postgraduate+Students:+A+Case+Study
+https://www.mdpi.com/1999-5903/13/1/20/pdf?version=1611208308
+
+# 126 - The Determinants of Subjective Well-Being in a Developing Country: The Ecuadorian Case
+# Original: https://scholar.google.com/scholar?q=The+Determinants+of+Subjective+Well-Being+in+a+Developing+Country:+The+Ecuadorian+Case
+https://link.springer.com/content/pdf/10.1007/s10902-019-00211-w.pdf
+
+# 127 - Pathways Improving Compliance with Preventive Behaviors during the Remission Period of the COVID-19 Pandemic
+# Original: https://scholar.google.com/scholar?q=Pathways+Improving+Compliance+with+Preventive+Behaviors+during+the+Remission+Period+of+the+COVID-19+Pandemic
+https://doi.org/10.3390/ijerph18073512
 

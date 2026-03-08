@@ -146,26 +146,31 @@ def main():
             if idx < len(pending) - 1:
                 time.sleep(args.delay)
 
-    # Write output file with PDF URLs
-    pdf_urls = []
+    # Write output file with PDF URLs and numbered comments
+    found_entries = []
     no_pdf = []
     not_found = []
 
-    for url in urls:
+    for i, url in enumerate(urls, 1):
         info = results.get(url, {})
         if info.get("status") == "found":
-            pdf_urls.append(info["pdf_url"])
+            found_entries.append((i, url, info))
         elif info.get("status") == "no_pdf":
             no_pdf.append(info.get("title", url))
         elif info.get("status") in ("not_found", "error", "parse_error"):
             not_found.append(url)
 
     with open(output_path, "w") as f:
-        for pdf_url in pdf_urls:
-            f.write(pdf_url + "\n")
+        f.write("# PDF URLs with source info (comments are ignored by download.py)\n")
+        f.write("# Number prefix matches the line number in the input file\n\n")
+        for i, url, info in found_entries:
+            title = info.get("title", "")
+            f.write(f"# {i:03d} - {title}\n")
+            f.write(f"# Original: {url}\n")
+            f.write(f"{info['pdf_url']}\n\n")
 
     print(f"\nSummary:")
-    print(f"  {len(pdf_urls)} PDF URLs written to {output_path}")
+    print(f"  {len(found_entries)} PDF URLs written to {output_path}")
     print(f"  {len(no_pdf)} papers found but no open-access PDF")
     print(f"  {len(not_found)} papers not found")
 

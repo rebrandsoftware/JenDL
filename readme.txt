@@ -97,15 +97,24 @@ Use lookup.py to trace any downloaded file back to its source:
 STARTING OVER
 -------------
 
-To re-download everything from scratch, delete the state file(s):
+To start completely fresh (both lookup and downloads):
 
-  Mac:     rm download_state.json
-  Windows: del download_state.json
+  Mac:     rm -f download_state.json find_pdfs_state.json
+           rm -rf downloads/
+  Windows: del download_state.json find_pdfs_state.json
+           rmdir /s downloads
 
-To re-run the PDF link lookup from scratch:
+Then re-run both steps:
+  python find_pdfs.py
+  python download.py -l pdf_links.txt
+
+To re-run only the PDF link lookup (keeps existing downloads):
   python find_pdfs.py --reset
 
-Then run the relevant script again.
+To re-run only the downloads (keeps existing lookup results):
+  Mac:     rm -f download_state.json && rm -rf downloads/
+  Windows: del download_state.json && rmdir /s downloads
+  Then:    python download.py -l pdf_links.txt
 
 
 TROUBLESHOOTING

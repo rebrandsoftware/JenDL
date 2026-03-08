@@ -1,5 +1,115 @@
 {
   "results": {
+    "https://scholar.google.com/scholar?q=Impact+of+political+violence,+social+trust,+and+depression+on+civic+participation+in+Colombia": {
+      "status": "found",
+      "title": "Impact of political violence, social trust, and depression on civic participation in Colombia.",
+      "pdf_url": "https://pure.qub.ac.uk/files/16000162/Taylor_for_PURE_2_.pdf",
+      "doi": "10.1037/PAC0000139"
+    },
+    "https://scholar.google.com/scholar?q=Effects+of+the+COVID-19+pandemic+and+nationwide+lockdown+on+trust,+attitudes+toward+government,+and+well-being": {
+      "status": "found",
+      "title": "Effects of the COVID-19 pandemic and nationwide lockdown on trust, attitudes toward government, and well-being.",
+      "pdf_url": "https://psyarxiv.com/cx6qa/download",
+      "doi": "10.1037/amp0000662"
+    },
+    "https://scholar.google.com/scholar?q=The+Inefficiency+of+the+Neoclassical+Paradigm+in+the+Promotion+of+Subjective+Well-Being+and+Socioeconomic,+and+Environmental+Sustainability:+An+Empirical+Test+for+the+Spanish+Case": {
+      "status": "found",
+      "title": "The Inefficiency of the Neoclassical Paradigm in the Promotion of Subjective Well-Being and Socioeconomic, and Environmental Sustainability: An Empirical Test for the Spanish Case",
+      "pdf_url": "https://www.mdpi.com/2071-1050/11/24/7102/pdf?version=1576566891",
+      "doi": "10.3390/su11247102"
+    },
+    "https://scholar.google.com/scholar?q=Effects+of+security+on+social+trust+among+Chinese+adults:+Roles+of+life+satisfaction+and+ostracism": {
+      "status": "no_pdf",
+      "title": "Effects of security on social trust among Chinese adults: Roles of life satisfaction and ostracism",
+      "doi": "10.1080/00224545.2020.1871312"
+    },
+    "https://scholar.google.com/scholar?q=Gender+differences+in+the+association+between+cognitive+social+capital,+self-rated+health,+and+depressive+symptoms:+A+comparative+analysis+of+Sweden+and+Ukraine": {
+      "status": "found",
+      "title": "Gender differences in the association between cognitive social capital, self-rated health, and depressive symptoms: a comparative analysis of Sweden and Ukraine",
+      "pdf_url": "https://ijmhs.biomedcentral.com/track/pdf/10.1186/s13033-016-0068-4",
+      "doi": "10.1186/s13033-016-0068-4"
+    },
+    "https://scholar.google.com/scholar?q=Quality+of+life,+health,+and+government+perception+during+COVID-19+times:+Data+from+Colombia": {
+      "status": "found",
+      "title": "Quality of life, health, and government perception during COVID-19 times: Data from Colombia",
+      "pdf_url": "https://doi.org/10.1016/j.dib.2021.107268",
+      "doi": "10.1016/j.dib.2021.107268"
+    },
+    "https://scholar.google.com/scholar?q=Educational+inequalities+in+women's+depressive+symptoms:+the+mediating+role+of+perceived+neighbourhood+characteristics": {
+      "status": "found",
+      "title": "Educational Inequalities in Women\u2019s Depressive Symptoms: The Mediating Role of Perceived Neighbourhood Characteristics",
+      "pdf_url": "https://www.mdpi.com/1660-4601/9/12/4241/pdf?version=1403139993",
+      "doi": "10.3390/ijerph9124241"
+    },
+    "https://scholar.google.com/scholar?q=The+Hidden+Costs+of+Mental+Depression:+Implications+on+Social+Trust+and+Life+Satisfaction": {
+      "status": "found",
+      "title": "The Hidden Costs of Mental Depression: Implications on Social Trust and Life Satisfaction",
+      "pdf_url": "https://nottingham-repository.worktribe.com/preview/830578/Hidden%20Costs%20of%20Depression%20170917.pdf",
+      "doi": "10.1111/MANC.12251"
+    },
+    "https://scholar.google.com/scholar?q=Low+emotional+trust+in+mothers+is+associated+with+increased+suicide+attempts+in+inpatient+adolescents+with+depressive+symptoms": {
+      "status": "no_pdf",
+      "title": "Low emotional trust in mothers is associated with increased suicide attempts in inpatient adolescents with depressive symptoms",
+      "doi": "10.1521/JSCP.2017.36.3.221"
+    },
+    "https://scholar.google.com/scholar?q=Job+insecurity+and+trust:+Uncovering+a+mechanism+linking+job+insecurity+to+well-being": {
+      "status": "found",
+      "title": "Job insecurity and trust: Uncovering a mechanism linking job insecurity to well-being",
+      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/02678373.2018.1461709?needAccess=true",
+      "doi": "10.1080/02678373.2018.1461709"
+    },
+    "https://scholar.google.com/scholar?q=The+relationship+between+trust+in+primary+healthcare+providers+among+patients+with+diabetes+and+levels+of+depression+and+anxiety": {
+      "status": "no_pdf",
+      "title": "Augmenting home exercise programmes in primary care physiotherapy: a pilot randomised controlled trial of the 'Exercise Buddy' model",
+      "doi": null
+    },
+    "https://scholar.google.com/scholar?q=When+is+happy+also+prosocial?+The+relationship+between+happiness+and+social+orientation+depends+on+trust,+agency+and+communion": {
+      "status": "found",
+      "title": "When is happy also prosocial? The relationship between happiness and social orientation depends on trust, agency and communion",
+      "pdf_url": "http://cipp.ug.edu.pl/pdf-128059-73738?filename=When is happy also.pdf",
+      "doi": "10.5114/cipp.2020.101494"
+    },
+    "https://scholar.google.com/scholar?q=Social+Exclusion,+Subjective+Academic+Success,+Well-Being,+and+the+Meaning+of+Trust": {
+      "status": "found",
+      "title": "Social Exclusion, Subjective Academic Success, Well-Being, and the Meaning of Trust",
+      "pdf_url": "https://doi.org/10.1026/0049-8637/a000236",
+      "doi": "10.1026/0049-8637/a000236"
+    },
+    "https://scholar.google.com/scholar?q=Hate+and+harassment+in+academia:+the+rising+concern+of+the+online+environment": {
+      "status": "found",
+      "title": "Hate and harassment in academia: the rising concern of the online environment",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10734-021-00787-4.pdf",
+      "doi": "10.1007/s10734-021-00787-4"
+    },
+    "https://scholar.google.com/scholar?q=THE+POSITIVE+EFFECT+OF+NATURE+CONNECTEDNESS+ON+PSYCHOLOGICAL+WELLBEING:+THE+SIGNIFICANCE+OF+TRUST+AS+A+MEDIATOR": {
+      "status": "found",
+      "title": "The Positive Effect of Nature Connectedness on Psychological Wellbeing: The Significance of Trust as a Mediator",
+      "pdf_url": "https://psy-journal.hse.ru/data/2019/12/03/1522337950/2019-1-2.pdf",
+      "doi": "10.17323/1813-8918-2019-1-27-49"
+    },
+    "https://scholar.google.com/scholar?q=A+MULTILEVEL+MODELING+STUDY+OF+THE+INFLUENCE+OF+RELATIONSHIP+ENHANCING+TRAITS+AND+INDIVIDUALISM+ON+SATISFACTION+WITH+LIFE+ACROSS+NATIONS": {
+      "status": "found",
+      "title": "A Multilevel Modeling Study of the Influence of Relationship Enhancing Traits and Individualism on Satisfaction with Life Across Nations",
+      "pdf_url": "http://revistas.uned.es/index.php/accionpsicologica/article/download/22260/19383",
+      "doi": "10.5944/AP.15.2.22260"
+    },
+    "https://scholar.google.com/scholar?q=Does+Variation+in+the+Extent+of+Generalized+Trust,+Individual+Education+and+Extensiveness+of+Social+Security+Policies+Matter+for+Maximization+of+Subjective+Well-Being?": {
+      "status": "found",
+      "title": "Does Variation in the Extent of Generalized Trust, Individual Education and Extensiveness of Social Security Policies Matter for Maximization of Subjective Well-Being?.",
+      "pdf_url": "http://dergipark.gov.tr/download/article-file/272071",
+      "doi": "10.21890/IJRES.02502"
+    },
+    "https://scholar.google.com/scholar?q=Cross-Sectional+and+Longitudinal+Relations+among+Children's+Trust+Beliefs,+Psychological+Maladjustment+and+Social+Relationships:+Are+Very+High+as+Well+as+Very+Low+Trusting+Children+at+Risk?": {
+      "status": "no_pdf",
+      "title": "Cross-Sectional and Longitudinal Relations Among Children's Trust Beliefs, Psychological Maladjustment and Social Relationships: Are Very High as Well as Very Low Trusting Children at Risk?",
+      "doi": "10.1007/S10802-005-6740-9"
+    },
+    "https://scholar.google.com/scholar?q=Psychosocial+factors+associated+with+routine+health+examination+scheduling+and+receipt+among+African+American+men": {
+      "status": "found",
+      "title": "Psychosocial factors associated with routine health examination scheduling and receipt among African American men.",
+      "pdf_url": "https://europepmc.org/articles/pmc2865157?pdf=render",
+      "doi": "10.1016/S0027-9684(15)30600-3"
+    },
     "https://scholar.google.com/scholar?q=Depressive+and+anxious+symptomatology+in+a+Lebanese+sample+during+the+COVID-19+outbreak": {
       "status": "found",
       "title": "Depressive and anxious symptomatology in a Lebanese sample during the COVID-19 outbreak",
@@ -115,9 +225,8 @@
       "doi": "10.1007/s11482-021-09956-0"
     },
     "https://scholar.google.com/scholar?q=An+exploratory+study+of+religion+and+trust+in+Ghana": {
-      "status": "no_pdf",
-      "title": "An Exploratory Study of Religion and Trust in Ghana",
-      "doi": "10.1007/S11205-011-9969-4"
+      "status": "error",
+      "error": "500 Server Error: Internal Server Error for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=An+exploratory+study+of+religion+and+trust+in+Ghana&fields=title%2CopenAccessPdf%2CexternalIds"
     },
     "https://scholar.google.com/scholar?q=Social+and+Psychological+Factors+of+Political+Participation+according+to+Recent+European+Social+Survey+Data": {
       "status": "found",
@@ -131,8 +240,10 @@
       "doi": "10.1016/j.psychres.2014.08.012"
     },
     "https://scholar.google.com/scholar?q=General+trust+scale:+Validation+in+cross-cultural+settings": {
-      "status": "error",
-      "error": "429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=General+trust+scale%3A+Validation+in+cross-cultural+settings&fields=title%2CopenAccessPdf%2CexternalIds"
+      "status": "found",
+      "title": "General trust scale: Validation in cross-cultural settings",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s12144-019-00435-2.pdf",
+      "doi": "10.1007/s12144-019-00435-2"
     },
     "https://scholar.google.com/scholar?q=Can+You+Hear+Me+Now?+Effects+of+Patient-Centered+Communication+With+Young+Adults+Aged+26+to+39": {
       "status": "found",
@@ -150,10 +261,8 @@
       "doi": "10.1080/14330237.2016.1208930"
     },
     "https://scholar.google.com/scholar?q=Refugee+Children's+Social-Emotional+Capacities:+Links+to+Mental+Health+upon+Resettlement+and+Buffering+Effects+on+Pre-Migratory+Adversity": {
-      "status": "found",
-      "title": "Refugee Children\u2019s Social\u2013Emotional Capacities: Links to Mental Health upon Resettlement and Buffering Effects on Pre-Migratory Adversity",
-      "pdf_url": "https://www.mdpi.com/1660-4601/18/22/12180/pdf?version=1637514824",
-      "doi": "10.3390/ijerph182212180"
+      "status": "error",
+      "error": "500 Server Error: Internal Server Error for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=Refugee+Children%27s+Social-Emotional+Capacities%3A+Links+to+Mental+Health+upon+Resettlement+and+Buffering+Effects+on+Pre-Migratory+Adversity&fields=title%2CopenAccessPdf%2CexternalIds"
     },
     "https://scholar.google.com/scholar?q=The+impact+of+economic+recessions+on+depression+and+individual+and+social+well-being:+The+case+of+Spain+(2006-2013)": {
       "status": "no_pdf",
@@ -164,8 +273,10 @@
       "status": "not_found"
     },
     "https://scholar.google.com/scholar?q=The+hardships+of+the+poorest+during+the+COVID-19+pandemic:+Data+about+the+socioeconomic+conditions+and+governance+of+informal+workers": {
-      "status": "error",
-      "error": "429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=The+hardships+of+the+poorest+during+the+COVID-19+pandemic%3A+Data+about+the+socioeconomic+conditions+and+governance+of+informal+workers&fields=title%2CopenAccessPdf%2CexternalIds"
+      "status": "found",
+      "title": "The hardships of the poorest during the COVID-19 pandemic: Data about the socioeconomic conditions and governance of informal workers",
+      "pdf_url": "https://doi.org/10.1016/j.dib.2021.107728",
+      "doi": "10.1016/j.dib.2021.107728"
     },
     "https://scholar.google.com/scholar?q=Happy+for+how+long?+How+social+capital+and+economic+growth+relate+to+happiness+over+time": {
       "status": "no_pdf",
@@ -179,10 +290,8 @@
       "doi": "10.1017/S0144686X1700071X"
     },
     "https://scholar.google.com/scholar?q=Distancing+Adherence+and+Negative+Emotions+among+the+Israeli+Elderly+Population+during+the+COVID-19+Pandemic": {
-      "status": "found",
-      "title": "Distancing Adherence and Negative Emotions among the Israeli Elderly Population during the COVID-19 Pandemic",
-      "pdf_url": "https://doi.org/10.3390/ijerph18168770",
-      "doi": "10.3390/ijerph18168770"
+      "status": "error",
+      "error": "500 Server Error: Internal Server Error for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=Distancing+Adherence+and+Negative+Emotions+among+the+Israeli+Elderly+Population+during+the+COVID-19+Pandemic&fields=title%2CopenAccessPdf%2CexternalIds"
     },
     "https://scholar.google.com/scholar?q=Trust,+poverty,+and+subjective+wellbeing+among+Chinese+entrepreneurs": {
       "status": "no_pdf",
@@ -202,8 +311,9 @@
       "doi": "10.3389/fpsyg.2020.563741"
     },
     "https://scholar.google.com/scholar?q=Remnants+of+Communism+and+Present-Day+Inequality": {
-      "status": "error",
-      "error": "429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=Remnants+of+Communism+and+Present-Day+Inequality&fields=title%2CopenAccessPdf%2CexternalIds"
+      "status": "no_pdf",
+      "title": "Remnants of Communism and Present-Day Inequality",
+      "doi": "10.1177/1069397120957293"
     },
     "https://scholar.google.com/scholar?q=Living+in+opposition:+How+women+in+the+United+States+cope+in+spite+of+mistrust+of+federal+leadership+during+the+pandemic+of+Covid-19": {
       "status": "found",
@@ -212,7 +322,8 @@
       "doi": "10.1002/jcop.22544"
     },
     "https://scholar.google.com/scholar?q=Self-esteem+and+problematic+smartphone+use+among+adolescents:+A+moderated+mediation+model+of+depression+and+interpersonal+trust": {
-      "status": "not_found"
+      "status": "error",
+      "error": "500 Server Error: Internal Server Error for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=Self-esteem+and+problematic+smartphone+use+among+adolescents%3A+A+moderated+mediation+model+of+depression+and+interpersonal+trust&fields=title%2CopenAccessPdf%2CexternalIds"
     },
     "https://scholar.google.com/scholar?q=Does+young+adults'+life+satisfaction+promote+tolerance+towards+immigrants?+The+role+of+political+satisfaction+and+social+trust": {
       "status": "found",
@@ -227,8 +338,10 @@
       "doi": "10.1007/S11205-018-1850-2"
     },
     "https://scholar.google.com/scholar?q=Relationship+between+healthy+elderly+individual+social+capital+and+health+according+to+ward+level+in+Tomi+City,+Nagano+Prefecture:+an+ecological+study": {
-      "status": "error",
-      "error": "500 Server Error: Internal Server Error for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=Relationship+between+healthy+elderly+individual+social+capital+and+health+according+to+ward+level+in+Tomi+City%2C+Nagano+Prefecture%3A+an+ecological+study&fields=title%2CopenAccessPdf%2CexternalIds"
+      "status": "found",
+      "title": "Relationship between healthy elderly individual social capital and health according to ward level in Tomi City, Nagano Prefecture: an ecological study",
+      "pdf_url": "https://www.jstage.jst.go.jp/article/jrm/14/1/14_2979/_pdf",
+      "doi": "10.2185/jrm.2979"
     },
     "https://scholar.google.com/scholar?q=Trust+in+mutual+aid+group+members,+self-management+of+chronic+illness,+and+well-being+among+young+patients+with+chronic+illness+in+Hong+Kong": {
       "status": "found",
@@ -249,9 +362,7 @@
       "doi": "10.3390/SU13095230"
     },
     "https://scholar.google.com/scholar?q=The+relationship+between+positive+development+and+psychopathology+during+the+transition+to+adulthood:+A+person-centred+approach": {
-      "status": "no_pdf",
-      "title": "The relationship between positive development and psychopathology during the transition to adulthood: a person-centred approach.",
-      "doi": "10.1016/j.adolescence.2011.10.006"
+      "status": "not_found"
     },
     "https://scholar.google.com/scholar?q=Community+resilience+and+anxiety+among+Chinese+older+adults+during+COVID-19:+The+moderating+role+of+trust+in+local+government": {
       "status": "found",
@@ -312,14 +423,12 @@
       "doi": "10.1093/ESR/JCT033"
     },
     "https://scholar.google.com/scholar?q=A+new+propensity+to+trust+scale+and+its+relationship+with+individual+well-being:+Implications+for+HRM+policies+and+practices": {
-      "status": "no_pdf",
-      "title": "A new propensity to trust scale and its relationship with individual well\u2010being: implications for HRM policies and practices",
-      "doi": "10.1111/1748-8583.12007"
+      "status": "error",
+      "error": "500 Server Error: Internal Server Error for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=A+new+propensity+to+trust+scale+and+its+relationship+with+individual+well-being%3A+Implications+for+HRM+policies+and+practices&fields=title%2CopenAccessPdf%2CexternalIds"
     },
     "https://scholar.google.com/scholar?q=Predictors+of+Depressive+Symptoms+Based+on+the+Human+Capital+Model+Approach:+Findings+From+the+Indonesia+Family+Life+Survey": {
-      "status": "no_pdf",
-      "title": "Predictors of Depressive Symptoms Based on the Human Capital Model Approach: Findings From the Indonesia Family Life Survey",
-      "doi": null
+      "status": "error",
+      "error": "500 Server Error: Internal Server Error for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=Predictors+of+Depressive+Symptoms+Based+on+the+Human+Capital+Model+Approach%3A+Findings+From+the+Indonesia+Family+Life+Survey&fields=title%2CopenAccessPdf%2CexternalIds"
     },
     "https://scholar.google.com/scholar?q=A+Multilevel+Approach+Linking+Entrepreneurial+Contexts+to+Subjective+Well-Being:+Evidence+from+Rural+Chinese+Entrepreneurs": {
       "status": "no_pdf",
@@ -339,10 +448,8 @@
       "doi": "10.1371/journal.pone.0003985"
     },
     "https://scholar.google.com/scholar?q=Lonely+societies:+low+trust+societies?+Further+explanations+for+national+variations+in+loneliness+among+older+Europeans": {
-      "status": "found",
-      "title": "Lonely societies: low trust societies? Further explanations for national variations in loneliness among older Europeans",
-      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10433-021-00649-z.pdf",
-      "doi": "10.1007/s10433-021-00649-z"
+      "status": "error",
+      "error": "500 Server Error: Internal Server Error for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=Lonely+societies%3A+low+trust+societies%3F+Further+explanations+for+national+variations+in+loneliness+among+older+Europeans&fields=title%2CopenAccessPdf%2CexternalIds"
     },
     "https://scholar.google.com/scholar?q=How+are+you+holding+up?+Personality,+cognitive+and+social+predictors+of+a+perceived+shift+in+subjective+well-being+during+COVID-19+pandemic": {
       "status": "found",
@@ -436,7 +543,8 @@
       "doi": null
     },
     "https://scholar.google.com/scholar?q=IMPACT+OF+TRUST+AND+SUBJECTIVE+WELLBEING+ON+PROCEDURAL+JUSTICE:+A+MEDIATION+STUDY": {
-      "status": "not_found"
+      "status": "error",
+      "error": "500 Server Error: Internal Server Error for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=IMPACT+OF+TRUST+AND+SUBJECTIVE+WELLBEING+ON+PROCEDURAL+JUSTICE%3A+A+MEDIATION+STUDY&fields=title%2CopenAccessPdf%2CexternalIds"
     },
     "https://scholar.google.com/scholar?q=The+effect+of+workplace+violence+on+depression+among+medical+staff+in+China:+the+mediating+role+of+interpersonal+distrust": {
       "status": "found",
@@ -455,10 +563,7 @@
       "doi": "10.1007/S11482-015-9435-6"
     },
     "https://scholar.google.com/scholar?q=Mental+health,+interpersonal+trust+and+subjective+well-being+in+a+high+violence+context": {
-      "status": "found",
-      "title": "Mental health, interpersonal trust and subjective well-being in a high violence context",
-      "pdf_url": "https://doi.org/10.1016/j.ssmph.2019.100423",
-      "doi": "10.1016/j.ssmph.2019.100423"
+      "status": "not_found"
     },
     "https://scholar.google.com/scholar?q=Investigation+of+relationship+between+social+capital+and+quality+of+life+in+female+headed+families": {
       "status": "no_pdf",
@@ -484,7 +589,10 @@
       "doi": "10.1007/s10902-016-9808-z"
     },
     "https://scholar.google.com/scholar?q=Differences+between+Chinese+Adolescent+Immigrants+and+Adolescent+Non-Immigrants+in+Hong+Kong:+Perceived+Psychosocial+Attributes,+School+Environment+and+Characteristics+of+Hong+Kong+Adolescents": {
-      "status": "not_found"
+      "status": "found",
+      "title": "Differences between Chinese Adolescent Immigrants and Adolescent Non-Immigrants in Hong Kong: Perceived Psychosocial Attributes, School Environment and Characteristics of Hong Kong Adolescents",
+      "pdf_url": "https://www.mdpi.com/1660-4601/18/7/3739/pdf?version=1617939941",
+      "doi": "10.3390/ijerph18073739"
     },
     "https://scholar.google.com/scholar?q=Trust+after+terror:+Institutional+trust+among+young+terror+survivors+and+their+parents+after+the+22nd+of+July+terrorist+attack+on+Utoya+Island,+Norway": {
       "status": "found",
@@ -518,7 +626,7 @@
     "https://scholar.google.com/scholar?q=The+structure+of+subjective+well-being+and+its+determinants:+A+micro-data+study+for+Portugal": {
       "status": "no_pdf",
       "title": "The Structure of Subjective Well-Being and Its Determinants: A Micro-Data Study for Portugal",
-      "doi": "10.1007/s11205-015-0938-1"
+      "doi": "10.1007/S11205-015-0938-1"
     },
     "https://scholar.google.com/scholar?q=Association+between+COVID-19+vaccine+hesitancy+and+generalized+trust,+depression,+generalized+anxiety,+and+fear+of+COVID-19": {
       "status": "found",
@@ -545,8 +653,10 @@
       "doi": "10.1111/J.1083-6101.2009.01474.X"
     },
     "https://scholar.google.com/scholar?q=Sustainable+Careers:+Reliability+of+Job+Satisfaction+Predictors+for+Employees+Aged+50+.+Evidence+from+Romanian+Development+Regions": {
-      "status": "error",
-      "error": "500 Server Error: Internal Server Error for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=Sustainable+Careers%3A+Reliability+of+Job+Satisfaction+Predictors+for+Employees+Aged+50+.+Evidence+from+Romanian+Development+Regions&fields=title%2CopenAccessPdf%2CexternalIds"
+      "status": "found",
+      "title": "Sustainable Careers: Reliability of Job Satisfaction Predictors for Employees Aged 50+. Evidence from Romanian Development Regions",
+      "pdf_url": "https://www.mdpi.com/2071-1050/13/15/8133/pdf?version=1627466078",
+      "doi": "10.3390/SU13158133"
     },
     "https://scholar.google.com/scholar?q=Ethnic+Disparities+in+Social+Capital+and+Health+among+Jewish+and+Arab+Participants+in+the+Israeli+Mamanet+Cachibol+League": {
       "status": "found",
@@ -595,111 +705,6 @@
       "title": "Pathways Improving Compliance with Preventive Behaviors during the Remission Period of the COVID-19 Pandemic",
       "pdf_url": "https://doi.org/10.3390/ijerph18073512",
       "doi": "10.3390/ijerph18073512"
-    },
-    "https://scholar.google.com/scholar?q=Impact+of+political+violence,+social+trust,+and+depression+on+civic+participation+in+Colombia": {
-      "status": "found",
-      "title": "Impact of political violence, social trust, and depression on civic participation in Colombia.",
-      "pdf_url": "https://pure.qub.ac.uk/files/16000162/Taylor_for_PURE_2_.pdf",
-      "doi": "10.1037/PAC0000139"
-    },
-    "https://scholar.google.com/scholar?q=Effects+of+the+COVID-19+pandemic+and+nationwide+lockdown+on+trust,+attitudes+toward+government,+and+well-being": {
-      "status": "found",
-      "title": "Effects of the COVID-19 pandemic and nationwide lockdown on trust, attitudes toward government, and well-being.",
-      "pdf_url": "https://psyarxiv.com/cx6qa/download",
-      "doi": "10.1037/amp0000662"
-    },
-    "https://scholar.google.com/scholar?q=The+Inefficiency+of+the+Neoclassical+Paradigm+in+the+Promotion+of+Subjective+Well-Being+and+Socioeconomic,+and+Environmental+Sustainability:+An+Empirical+Test+for+the+Spanish+Case": {
-      "status": "found",
-      "title": "The Inefficiency of the Neoclassical Paradigm in the Promotion of Subjective Well-Being and Socioeconomic, and Environmental Sustainability: An Empirical Test for the Spanish Case",
-      "pdf_url": "https://www.mdpi.com/2071-1050/11/24/7102/pdf?version=1576566891",
-      "doi": "10.3390/su11247102"
-    },
-    "https://scholar.google.com/scholar?q=Effects+of+security+on+social+trust+among+Chinese+adults:+Roles+of+life+satisfaction+and+ostracism": {
-      "status": "no_pdf",
-      "title": "Effects of security on social trust among Chinese adults: Roles of life satisfaction and ostracism",
-      "doi": "10.1080/00224545.2020.1871312"
-    },
-    "https://scholar.google.com/scholar?q=Gender+differences+in+the+association+between+cognitive+social+capital,+self-rated+health,+and+depressive+symptoms:+A+comparative+analysis+of+Sweden+and+Ukraine": {
-      "status": "found",
-      "title": "Gender differences in the association between cognitive social capital, self-rated health, and depressive symptoms: a comparative analysis of Sweden and Ukraine",
-      "pdf_url": "https://ijmhs.biomedcentral.com/track/pdf/10.1186/s13033-016-0068-4",
-      "doi": "10.1186/s13033-016-0068-4"
-    },
-    "https://scholar.google.com/scholar?q=Quality+of+life,+health,+and+government+perception+during+COVID-19+times:+Data+from+Colombia": {
-      "status": "no_pdf",
-      "title": "[The \"Return\" project, quality of life after returning home from hospitalization].",
-      "doi": null
-    },
-    "https://scholar.google.com/scholar?q=Educational+inequalities+in+women's+depressive+symptoms:+the+mediating+role+of+perceived+neighbourhood+characteristics": {
-      "status": "no_pdf",
-      "title": "Serum follicle stimulating hormone and luteinizing hormone levels in women of various endocrinological states.",
-      "doi": null
-    },
-    "https://scholar.google.com/scholar?q=The+Hidden+Costs+of+Mental+Depression:+Implications+on+Social+Trust+and+Life+Satisfaction": {
-      "status": "found",
-      "title": "The Hidden Costs of Mental Depression: Implications on Social Trust and Life Satisfaction",
-      "pdf_url": "https://nottingham-repository.worktribe.com/preview/830578/Hidden%20Costs%20of%20Depression%20170917.pdf",
-      "doi": "10.1111/MANC.12251"
-    },
-    "https://scholar.google.com/scholar?q=Low+emotional+trust+in+mothers+is+associated+with+increased+suicide+attempts+in+inpatient+adolescents+with+depressive+symptoms": {
-      "status": "not_found"
-    },
-    "https://scholar.google.com/scholar?q=Job+insecurity+and+trust:+Uncovering+a+mechanism+linking+job+insecurity+to+well-being": {
-      "status": "found",
-      "title": "Job insecurity and trust: Uncovering a mechanism linking job insecurity to well-being",
-      "pdf_url": "https://www.tandfonline.com/doi/pdf/10.1080/02678373.2018.1461709?needAccess=true",
-      "doi": "10.1080/02678373.2018.1461709"
-    },
-    "https://scholar.google.com/scholar?q=The+relationship+between+trust+in+primary+healthcare+providers+among+patients+with+diabetes+and+levels+of+depression+and+anxiety": {
-      "status": "found",
-      "title": "The relationship between trust in primary healthcare providers among patients with diabetes and levels of depression and anxiety",
-      "pdf_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0239035&type=printable",
-      "doi": "10.1371/journal.pone.0239035"
-    },
-    "https://scholar.google.com/scholar?q=When+is+happy+also+prosocial?+The+relationship+between+happiness+and+social+orientation+depends+on+trust,+agency+and+communion": {
-      "status": "found",
-      "title": "When is happy also prosocial? The relationship between happiness and social orientation depends on trust, agency and communion",
-      "pdf_url": "http://cipp.ug.edu.pl/pdf-128059-73738?filename=When is happy also.pdf",
-      "doi": "10.5114/cipp.2020.101494"
-    },
-    "https://scholar.google.com/scholar?q=Social+Exclusion,+Subjective+Academic+Success,+Well-Being,+and+the+Meaning+of+Trust": {
-      "status": "found",
-      "title": "Social Exclusion, Subjective Academic Success, Well-Being, and the Meaning of Trust",
-      "pdf_url": "https://doi.org/10.1026/0049-8637/a000236",
-      "doi": "10.1026/0049-8637/a000236"
-    },
-    "https://scholar.google.com/scholar?q=Hate+and+harassment+in+academia:+the+rising+concern+of+the+online+environment": {
-      "status": "found",
-      "title": "Hate and harassment in academia: the rising concern of the online environment",
-      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s10734-021-00787-4.pdf",
-      "doi": "10.1007/s10734-021-00787-4"
-    },
-    "https://scholar.google.com/scholar?q=THE+POSITIVE+EFFECT+OF+NATURE+CONNECTEDNESS+ON+PSYCHOLOGICAL+WELLBEING:+THE+SIGNIFICANCE+OF+TRUST+AS+A+MEDIATOR": {
-      "status": "error",
-      "error": "429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search/match?query=THE+POSITIVE+EFFECT+OF+NATURE+CONNECTEDNESS+ON+PSYCHOLOGICAL+WELLBEING%3A+THE+SIGNIFICANCE+OF+TRUST+AS+A+MEDIATOR&fields=title%2CopenAccessPdf%2CexternalIds"
-    },
-    "https://scholar.google.com/scholar?q=A+MULTILEVEL+MODELING+STUDY+OF+THE+INFLUENCE+OF+RELATIONSHIP+ENHANCING+TRAITS+AND+INDIVIDUALISM+ON+SATISFACTION+WITH+LIFE+ACROSS+NATIONS": {
-      "status": "found",
-      "title": "A Multilevel Modeling Study of the Influence of Relationship Enhancing Traits and Individualism on Satisfaction with Life Across Nations",
-      "pdf_url": "http://revistas.uned.es/index.php/accionpsicologica/article/download/22260/19383",
-      "doi": "10.5944/AP.15.2.22260"
-    },
-    "https://scholar.google.com/scholar?q=Does+Variation+in+the+Extent+of+Generalized+Trust,+Individual+Education+and+Extensiveness+of+Social+Security+Policies+Matter+for+Maximization+of+Subjective+Well-Being?": {
-      "status": "found",
-      "title": "Does Variation in the Extent of Generalized Trust, Individual Education and Extensiveness of Social Security Policies Matter for Maximization of Subjective Well-Being?.",
-      "pdf_url": "http://dergipark.gov.tr/download/article-file/272071",
-      "doi": "10.21890/IJRES.02502"
-    },
-    "https://scholar.google.com/scholar?q=Cross-Sectional+and+Longitudinal+Relations+among+Children's+Trust+Beliefs,+Psychological+Maladjustment+and+Social+Relationships:+Are+Very+High+as+Well+as+Very+Low+Trusting+Children+at+Risk?": {
-      "status": "no_pdf",
-      "title": "Cross-Sectional and Longitudinal Relations Among Children's Trust Beliefs, Psychological Maladjustment and Social Relationships: Are Very High as Well as Very Low Trusting Children at Risk?",
-      "doi": "10.1007/S10802-005-6740-9"
-    },
-    "https://scholar.google.com/scholar?q=Psychosocial+factors+associated+with+routine+health+examination+scheduling+and+receipt+among+African+American+men": {
-      "status": "found",
-      "title": "Psychosocial factors associated with routine health examination scheduling and receipt among African American men.",
-      "pdf_url": "https://europepmc.org/articles/pmc2865157?pdf=render",
-      "doi": "10.1016/S0027-9684(15)30600-3"
     }
   }
 }
