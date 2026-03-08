@@ -72,7 +72,20 @@ def normalize_google_url(url):
     # Not a recognized Google URL — use as-is
     path_name = Path(parsed.path).name
     suggested = unquote(path_name) if path_name else "download"
+    # Ensure it has a file extension; if not, add .pdf
+    if "." not in suggested:
+        suggested = suggested + ".pdf"
     return url, suggested
+
+
+def sanitize_filename(name):
+    """Remove or replace characters that are invalid in filenames."""
+    # Replace path separators and other problematic chars
+    name = name.replace("/", "_").replace("\\", "_")
+    name = re.sub(r'[<>:"|?*]', '_', name)
+    # Collapse multiple underscores
+    name = re.sub(r'_+', '_', name)
+    return name.strip(". _")
 
 
 def extract_filename(response, suggested_filename):
@@ -80,8 +93,8 @@ def extract_filename(response, suggested_filename):
     cd = response.headers.get("Content-Disposition", "")
     match = re.search(r'filename\*?=["\']?(?:UTF-8\'\')?([^"\';\r\n]+)', cd)
     if match:
-        return unquote(match.group(1)).strip()
-    return suggested_filename
+        return sanitize_filename(unquote(match.group(1)).strip())
+    return sanitize_filename(suggested_filename)
 
 
 def handle_gdrive_confirmation(session, url, response):
@@ -176,10 +189,13 @@ def download_file(url, dest_path, session):
     return True
 
 
-def download_with_retry(url, output_dir, session, max_retries=3, base_delay=5.0):
+def download_with_retry(url, output_dir, session, max_retries=3, base_delay=5.0, prefix=""):
     """Download with exponential backoff retry logic.
     Returns (success: bool, filename: str)."""
     download_url, suggested_filename = normalize_google_url(url)
+    suggested_filename = sanitize_filename(suggested_filename)
+    if prefix:
+        suggested_filename = f"{prefix}_{suggested_filename}"
     dest_path = output_dir / suggested_filename
 
     for attempt in range(max_retries + 1):
@@ -188,8 +204,8 @@ def download_with_retry(url, output_dir, session, max_retries=3, base_delay=5.0)
             return success, dest_path.name
         except requests.exceptions.HTTPError as e:
             status = e.response.status_code if e.response is not None else 0
-            if status == 403:
-                print(f"  403 Forbidden — skipping (may require authentication)")
+            if status in (403, 404, 410):
+                print(f"  HTTP {status} — skipping")
                 return False, suggested_filename
             if status in (429, 500, 502, 503, 504) and attempt < max_retries:
                 delay = base_delay * (2 ** attempt) + random.uniform(0, 3)
@@ -227,14 +243,26 @@ def save_state(state, state_path):
 
 
 def read_links(links_file):
-    """Read URLs from a text file, one per line, skipping blanks and comments."""
-    urls = []
+    """Read URLs from a text file, one per line, skipping blanks and comments.
+    If a comment line like '# 042 - Paper Title' precedes a URL, the number
+    prefix is captured and returned alongside the URL.
+    Returns list of (url, prefix) tuples. prefix is '' if no number found."""
+    entries = []
+    pending_prefix = ""
     with open(links_file) as f:
         for line in f:
             line = line.strip()
-            if line and not line.startswith("#"):
-                urls.append(line)
-    return urls
+            if not line:
+                continue
+            if line.startswith("#"):
+                # Check for number prefix like '# 042 - ...'
+                match = re.match(r'^#\s*(\d{2,4})\s*-\s*', line)
+                if match:
+                    pending_prefix = match.group(1)
+                continue
+            entries.append((line, pending_prefix))
+            pending_prefix = ""
+    return entries
 
 
 def parse_args():
@@ -253,9 +281,10 @@ def parse_args():
 
 def run_sequential(pending, output_dir, session, args, state, state_path):
     """Download files one at a time."""
-    for i, url in enumerate(pending):
-        print(f"\n[{i + 1}/{len(pending)}] {url[:80]}")
-        success, filename = download_with_retry(url, output_dir, session, args.max_retries)
+    for i, (url, prefix) in enumerate(pending):
+        label = f"{prefix}: " if prefix else ""
+        print(f"\n[{i + 1}/{len(pending)}] {label}{url[:80]}")
+        success, filename = download_with_retry(url, output_dir, session, args.max_retries, prefix=prefix)
 
         if success:
             state["completed"].append(url)
@@ -277,7 +306,7 @@ def run_concurrent(pending, output_dir, session, args, state, state_path):
         futures = {}
         idx = 0
 
-        for url in pending:
+        for url, prefix in pending:
             idx += 1
             # Wait if we already have max concurrent tasks
             while len(futures) >= 2:
@@ -299,8 +328,9 @@ def run_concurrent(pending, output_dir, session, args, state, state_path):
                     save_state(state, state_path)
                     time.sleep(random.uniform(args.min_delay, args.max_delay))
 
-            print(f"\n[{idx}/{len(pending)}] {url[:80]}")
-            future = pool.submit(download_with_retry, url, output_dir, session, args.max_retries)
+            label = f"{prefix}: " if prefix else ""
+            print(f"\n[{idx}/{len(pending)}] {label}{url[:80]}")
+            future = pool.submit(download_with_retry, url, output_dir, session, args.max_retries, prefix=prefix)
             futures[future] = url
 
         # Wait for remaining
@@ -333,19 +363,19 @@ def main():
 
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    urls = read_links(links_file)
-    if not urls:
+    entries = read_links(links_file)
+    if not entries:
         print("No URLs found in links file")
         return 1
 
     state = load_state(state_path)
-    pending = [u for u in urls if u not in state["completed"]]
+    pending = [(url, prefix) for url, prefix in entries if url not in state["completed"]]
 
     if not pending:
-        print(f"All {len(urls)} files already downloaded!")
+        print(f"All {len(entries)} files already downloaded!")
         return 0
 
-    print(f"Found {len(urls)} URLs, {len(pending)} remaining to download")
+    print(f"Found {len(entries)} URLs, {len(pending)} remaining to download")
     print(f"Output: {output_dir.resolve()}")
     print(f"Concurrency: {args.concurrency}, Delay: {args.min_delay}-{args.max_delay}s")
 
