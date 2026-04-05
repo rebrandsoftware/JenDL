@@ -1,351 +1,401 @@
-# PDF URLs with source info (comments are ignored by download.py)
-# Number prefix matches the line number in pdf_urls.txt
-
-# 001 - Impact of political violence, social trust, and depression on civic participation in Colombia.
-# Original: https://scholar.google.com/scholar?q=Impact+of+political+violence,+social+trust,+and+depression+on+civic+participation+in+Colombia
-https://pure.qub.ac.uk/files/16000162/Taylor_for_PURE_2_.pdf
-
-# 002 - Effects of the COVID-19 pandemic and nationwide lockdown on trust, attitudes toward government, and well-being.
-# Original: https://scholar.google.com/scholar?q=Effects+of+the+COVID-19+pandemic+and+nationwide+lockdown+on+trust,+attitudes+toward+government,+and+well-being
-https://psyarxiv.com/cx6qa/download
-
-# 003 - The Inefficiency of the Neoclassical Paradigm in the Promotion of Subjective Well-Being and Socioeconomic, and Environmental Sustainability: An Empirical Test for the Spanish Case
-# Original: https://scholar.google.com/scholar?q=The+Inefficiency+of+the+Neoclassical+Paradigm+in+the+Promotion+of+Subjective+Well-Being+and+Socioeconomic,+and+Environmental+Sustainability:+An+Empirical+Test+for+the+Spanish+Case
-https://www.mdpi.com/2071-1050/11/24/7102/pdf?version=1576566891
-
-# 005 - Gender differences in the association between cognitive social capital, self-rated health, and depressive symptoms: a comparative analysis of Sweden and Ukraine
-# Original: https://scholar.google.com/scholar?q=Gender+differences+in+the+association+between+cognitive+social+capital,+self-rated+health,+and+depressive+symptoms:+A+comparative+analysis+of+Sweden+and+Ukraine
-https://ijmhs.biomedcentral.com/track/pdf/10.1186/s13033-016-0068-4
-
-# 006 - Quality of life, health, and government perception during COVID-19 times: Data from Colombia
-# Original: https://scholar.google.com/scholar?q=Quality+of+life,+health,+and+government+perception+during+COVID-19+times:+Data+from+Colombia
-https://doi.org/10.1016/j.dib.2021.107268
-
-# 007 - Educational Inequalities in Women’s Depressive Symptoms: The Mediating Role of Perceived Neighbourhood Characteristics
-# Original: https://scholar.google.com/scholar?q=Educational+inequalities+in+women's+depressive+symptoms:+the+mediating+role+of+perceived+neighbourhood+characteristics
-https://www.mdpi.com/1660-4601/9/12/4241/pdf?version=1403139993
-
-# 008 - The Hidden Costs of Mental Depression: Implications on Social Trust and Life Satisfaction
-# Original: https://scholar.google.com/scholar?q=The+Hidden+Costs+of+Mental+Depression:+Implications+on+Social+Trust+and+Life+Satisfaction
-https://nottingham-repository.worktribe.com/preview/830578/Hidden%20Costs%20of%20Depression%20170917.pdf
-
-# 010 - Job insecurity and trust: Uncovering a mechanism linking job insecurity to well-being
-# Original: https://scholar.google.com/scholar?q=Job+insecurity+and+trust:+Uncovering+a+mechanism+linking+job+insecurity+to+well-being
-https://www.tandfonline.com/doi/pdf/10.1080/02678373.2018.1461709?needAccess=true
-
-# 012 - When is happy also prosocial? The relationship between happiness and social orientation depends on trust, agency and communion
-# Original: https://scholar.google.com/scholar?q=When+is+happy+also+prosocial?+The+relationship+between+happiness+and+social+orientation+depends+on+trust,+agency+and+communion
-http://cipp.ug.edu.pl/pdf-128059-73738?filename=When is happy also.pdf
-
-# 013 - Social Exclusion, Subjective Academic Success, Well-Being, and the Meaning of Trust
-# Original: https://scholar.google.com/scholar?q=Social+Exclusion,+Subjective+Academic+Success,+Well-Being,+and+the+Meaning+of+Trust
-https://doi.org/10.1026/0049-8637/a000236
-
-# 014 - Hate and harassment in academia: the rising concern of the online environment
-# Original: https://scholar.google.com/scholar?q=Hate+and+harassment+in+academia:+the+rising+concern+of+the+online+environment
-https://link.springer.com/content/pdf/10.1007/s10734-021-00787-4.pdf
-
-# 015 - The Positive Effect of Nature Connectedness on Psychological Wellbeing: The Significance of Trust as a Mediator
-# Original: https://scholar.google.com/scholar?q=THE+POSITIVE+EFFECT+OF+NATURE+CONNECTEDNESS+ON+PSYCHOLOGICAL+WELLBEING:+THE+SIGNIFICANCE+OF+TRUST+AS+A+MEDIATOR
-https://psy-journal.hse.ru/data/2019/12/03/1522337950/2019-1-2.pdf
-
-# 016 - A Multilevel Modeling Study of the Influence of Relationship Enhancing Traits and Individualism on Satisfaction with Life Across Nations
-# Original: https://scholar.google.com/scholar?q=A+MULTILEVEL+MODELING+STUDY+OF+THE+INFLUENCE+OF+RELATIONSHIP+ENHANCING+TRAITS+AND+INDIVIDUALISM+ON+SATISFACTION+WITH+LIFE+ACROSS+NATIONS
-http://revistas.uned.es/index.php/accionpsicologica/article/download/22260/19383
-
-# 017 - Does Variation in the Extent of Generalized Trust, Individual Education and Extensiveness of Social Security Policies Matter for Maximization of Subjective Well-Being?.
-# Original: https://scholar.google.com/scholar?q=Does+Variation+in+the+Extent+of+Generalized+Trust,+Individual+Education+and+Extensiveness+of+Social+Security+Policies+Matter+for+Maximization+of+Subjective+Well-Being?
-http://dergipark.gov.tr/download/article-file/272071
-
-# 019 - Psychosocial factors associated with routine health examination scheduling and receipt among African American men.
-# Original: https://scholar.google.com/scholar?q=Psychosocial+factors+associated+with+routine+health+examination+scheduling+and+receipt+among+African+American+men
-https://europepmc.org/articles/pmc2865157?pdf=render
-
-# 020 - Depressive and anxious symptomatology in a Lebanese sample during the COVID-19 outbreak
-# Original: https://scholar.google.com/scholar?q=Depressive+and+anxious+symptomatology+in+a+Lebanese+sample+during+the+COVID-19+outbreak
-https://doi.org/10.1080/14635240.2021.1950561
-
-# 021 - Trusting Only Whom You Know, Knowing Only Whom You Trust: The Joint Impact of Social Capital and Trust on Happiness in CEE Countries
-# Original: https://scholar.google.com/scholar?q=Trusting+only+whom+you+know,+knowing+only+whom+you+trust:+The+joint+impact+of+social+capital+and+trust+on+happiness+in+CEE+countries
-https://link.springer.com/content/pdf/10.1007/s10902-013-9461-8.pdf
-
-# 022 - The Effects of the 2016 Copa América Centenario Victory on Social Trust, Self-Transcendent Aspirations and Evaluated Subjective Well-Being: The Role of Identity With the National Team and Collective Pride in Major Sport Events
-# Original: https://scholar.google.com/scholar?q=The+effects+of+the+2016+Copa+America+Centenario+victory+on+social+trust,+self-transcendent+aspirations+and+evaluated+subjective+well-being+The+role+of+identity+with+the+national+team+and+collective+pride+in+major+sport+events
-https://www.frontiersin.org/articles/10.3389/fpsyg.2020.591498/pdf
-
-# 024 - Gender-related differences in the multi-pathway effect of social determinants on quality of life in older age—the COURAGE in Europe project
-# Original: https://scholar.google.com/scholar?q=Gender-related+differences+in+the+multi-pathway+effect+of+social+determinants+on+quality+of+life+in+older+age-The+COURAGE+in+Europe+project
-https://link.springer.com/content/pdf/10.1007%2Fs11136-017-1530-8.pdf
-
-# 026 - Young People’s Well-Being and the Association with Social Capital, i.e. Social Networks, Trust and Reciprocity
-# Original: https://scholar.google.com/scholar?q=Young+people's+well-being+and+the+association+with+social+capital,+i.e.+social+networks,+trust+and+reciprocity
-https://link.springer.com/content/pdf/10.1007/s11205-021-02762-z.pdf
-
-# 029 - Local Impact of Global Crises, Institutional Trust, and Consumer Well-Being: Evidence from the COVID-19 Pandemic
-# Original: https://scholar.google.com/scholar?q=Local+Impact+of+Global+Crises,+Institutional+Trust,+and+Consumer+Well-Being:+Evidence+from+the+COVID-19+Pandemic
-https://eprints.whiterose.ac.uk/174205/3/Davvetas%2C%20Ulqinaku%20%26%20Sarial-Abi%2C%202021.pdf
-
-# 030 - Mediating Effect of Cognitive Social Capital on the Relationship Between Physical Disability and Depression in Elderly People of Rural Pakistan
-# Original: https://scholar.google.com/scholar?q=Mediating+Effect+of+Cognitive+Social+Capital+on+the+Relationship+Between+Physical+Disability+and+Depression+in+Elderly+People+of+Rural+Pakistan
-https://www.mdpi.com/1660-4601/16/21/4232/pdf?version=1572533023
-
-# 031 - Depressive Symptoms and Trust of Healthcare Provider in Rural Adolescents: Relationships and Predictors
-# Original: https://scholar.google.com/scholar?q=Depressive+Symptoms+and+Trust+of+Healthcare+Provider+in+Rural+Adolescents:+Relationships+and+Predictors
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7855091
-
-# 032 - Associations of Psychosocial Factors with Multiple Health Behaviors: A Population-Based Study of Middle-Aged Men and Women
-# Original: https://scholar.google.com/scholar?q=Associations+of+Psychosocial+Factors+with+Multiple+Health+Behaviors:+A+Population-Based+Study+of+Middle-Aged+Men+and+Women
-https://www.mdpi.com/1660-4601/17/4/1239/pdf?version=1582372213
-
-# 034 - Factors associated with fear of intimacy among a representative sample of the Lebanese population: The role of depression, social phobia, self-esteem, intimate partner violence, attachment, and maladaptive schemas.
-# Original: https://scholar.google.com/scholar?q=Factors+associated+with+fear+of+intimacy+among+a+representative+sample+of+the+Lebanese+population:+The+role+of+depression,+social+phobia,+self-esteem,+intimate+partner+violence,+attachment,+and+maladaptive+schemas
-https://doi.org/10.1111/ppc.12438
-
-# 035 - The relation between older adults’ trust beliefs in nursing home carers and adjustment to residential care
-# Original: https://scholar.google.com/scholar?q=The+relation+between+older+adults'+trust+beliefs+in+nursing+home+carers+and+adjustment+to+residential+care
-https://doi.org/10.1017/s0144686x21000301
-
-# 036 - Inter- and intra-household perceived relative inequality among disabled and non-disabled people in Liberia
-# Original: https://scholar.google.com/scholar?q=Inter-+and+intra-household+perceived+relative+inequality+among+disabled+and+non-disabled+people+in+Liberia
-https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0217873&type=printable
-
-# 037 - The impact of a failed coup d’état on happiness, life satisfaction, and trust: the case of the plot in Turkey on July 15, 2016
-# Original: https://scholar.google.com/scholar?q=The+impact+of+a+failed+coup+d'etat+on+happiness,+life+satisfaction,+and+trust:+the+case+of+the+plot+in+Turkey+on+July+15,+2016
-https://agi.repo.nii.ac.jp/record/183/files/WP2019-10.pdf
-
-# 039 - How Trust Makes a Difference: The Impact of the First Wave of the COVID-19 Pandemic on Life Satisfaction in Germany
-# Original: https://scholar.google.com/scholar?q=How+Trust+Makes+a+Difference:+The+Impact+of+the+First+Wave+of+the+COVID-19+Pandemic+on+Life+Satisfaction+in+Germany
-https://link.springer.com/content/pdf/10.1007/s11482-021-09956-0.pdf
-
-# 041 - Social and Psychological Factors of Political Participation according to Recent European Social Survey Data
-# Original: https://scholar.google.com/scholar?q=Social+and+Psychological+Factors+of+Political+Participation+according+to+Recent+European+Social+Survey+Data
-https://doi.org/10.17356/ieejsp.v5i3.488
-
-# 043 - General trust scale: Validation in cross-cultural settings
-# Original: https://scholar.google.com/scholar?q=General+trust+scale:+Validation+in+cross-cultural+settings
-https://link.springer.com/content/pdf/10.1007/s12144-019-00435-2.pdf
-
-# 044 - Can You Hear Me Now? Effects of Patient-Centered Communication With Young Adults Aged 26 to 39
-# Original: https://scholar.google.com/scholar?q=Can+You+Hear+Me+Now?+Effects+of+Patient-Centered+Communication+With+Young+Adults+Aged+26+to+39
-https://journals.sagepub.com/doi/pdf/10.1177/23743735211033116
-
-# 046 - Happiness and life satisfaction in Rwanda
-# Original: https://scholar.google.com/scholar?q=Happiness+and+life+satisfaction+in+Rwanda
-https://eprints.whiterose.ac.uk/124273/1/Happiness_and_Life_Satisfaction_in_Rwanda_accepted_version.pdf
-
-# 050 - The hardships of the poorest during the COVID-19 pandemic: Data about the socioeconomic conditions and governance of informal workers
-# Original: https://scholar.google.com/scholar?q=The+hardships+of+the+poorest+during+the+COVID-19+pandemic:+Data+about+the+socioeconomic+conditions+and+governance+of+informal+workers
-https://doi.org/10.1016/j.dib.2021.107728
-
-# 052 - The mediation effect of political interest on the connection between social trust and wellbeing among older adults
-# Original: https://scholar.google.com/scholar?q=The+mediation+effect+of+political+interest+on+the+connection+between+social+trust+and+wellbeing+among+older+adults
-https://figshare.com/articles/journal_contribution/The_mediation_effect_of_political_interest_on_the_connection_between_social_trust_and_wellbeing_among_older_adults/9576323/1/files/17210459.pdf
-
-# 055 - Mediated roles of generalized trust and perceived social support in the effects of problematic social media use on mental health: A cross‐sectional study
-# Original: https://scholar.google.com/scholar?q=Mediated+roles+of+generalized+trust+and+perceived+social+support+in+the+effects+of+problematic+social+media+use+on+mental+health:+A+cross-sectional+study
-https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/hex.13169
-
-# 056 - Epidemic Risk Perception, Perceived Stress, and Mental Health During COVID-19 Pandemic: A Moderated Mediating Model
-# Original: https://scholar.google.com/scholar?q=Epidemic+Risk+Perception,+Perceived+Stress,+and+Mental+Health+During+COVID-19+Pandemic:+A+Moderated+Mediating+Model
-https://www.frontiersin.org/articles/10.3389/fpsyg.2020.563741/pdf
-
-# 058 - Living in opposition: How women in the United States cope in spite of mistrust of federal leadership during the pandemic of Covid‐19
-# Original: https://scholar.google.com/scholar?q=Living+in+opposition:+How+women+in+the+United+States+cope+in+spite+of+mistrust+of+federal+leadership+during+the+pandemic+of+Covid-19
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8251460
-
-# 060 - Does young adults’ life satisfaction promote tolerance towards immigrants? The role of political satisfaction and social trust
-# Original: https://scholar.google.com/scholar?q=Does+young+adults'+life+satisfaction+promote+tolerance+towards+immigrants?+The+role+of+political+satisfaction+and+social+trust
-https://link.springer.com/content/pdf/10.1007/s12144-021-01923-0.pdf
-
-# 061 - Perceived Corruption and Individuals’ Life Satisfaction: The Mediating Role of Institutional Trust
-# Original: https://scholar.google.com/scholar?q=Perceived+corruption+and+individuals'+life+satisfaction:+The+mediating+role+of+institutional+trust
-https://iris.unipa.it/bitstream/10447/300805/6/Ciziceno-Travaglino2019_Article_PerceivedCorruptionAndIndividu.pdf
-
-# 062 - Relationship between healthy elderly individual social capital and health according to ward level in Tomi City, Nagano Prefecture: an ecological study
-# Original: https://scholar.google.com/scholar?q=Relationship+between+healthy+elderly+individual+social+capital+and+health+according+to+ward+level+in+Tomi+City,+Nagano+Prefecture:+an+ecological+study
-https://www.jstage.jst.go.jp/article/jrm/14/1/14_2979/_pdf
-
-# 063 - Trust in mutual aid group members, self-management of chronic illness, and well-being among young patients with chronic illness in Hong Kong
-# Original: https://scholar.google.com/scholar?q=Trust+in+mutual+aid+group+members,+self-management+of+chronic+illness,+and+well-being+among+young+patients+with+chronic+illness+in+Hong+Kong
-https://doi.org/10.1016/j.childyouth.2021.106240
-
-# 064 - The Impact of Telework and Closure of Educational and Childcare Facilities on Working People During COVID-19
-# Original: https://scholar.google.com/scholar?q=The+Impact+of+Telework+and+Closure+of+Educational+and+Childcare+Facilities+on+Working+People+During+COVID-19
-https://doi.org/10.1026/0932-4089/a000370
-
-# 065 - An Exploratory Study of Factors That Affect Psychological Well-Being of 4-Year College Freshmen in South Korea
-# Original: https://scholar.google.com/scholar?q=An+Exploratory+Study+of+Factors+That+Affect+Psychological+Well-Being+of+4-Year+College+Freshmen+in+South+Korea
-https://www.mdpi.com/2071-1050/13/9/5230/pdf?version=1620386805
-
-# 067 - Community resilience and anxiety among Chinese older adults during COVID‐19: The moderating role of trust in local government
-# Original: https://scholar.google.com/scholar?q=Community+resilience+and+anxiety+among+Chinese+older+adults+during+COVID-19:+The+moderating+role+of+trust+in+local+government
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8426948
-
-# 069 - Individual, social and national coping resources and their relationships with mental health and anxiety: A comparative study in Israel, Italy, Spain, and the Netherlands during the Coronavirus pandemic
-# Original: https://scholar.google.com/scholar?q=Individual,+social+and+national+coping+resources+and+their+relationships+with+mental+health+and+anxiety:+A+comparative+study+in+Israel,+Italy,+Spain,+and+the+Netherlands+during+the+Coronavirus+pandemic
-https://journals.sagepub.com/doi/pdf/10.1177/1757975921992957
-
-# 070 - Trust, happiness, and households’ financial decisions
-# Original: https://scholar.google.com/scholar?q=Trust,+happiness,+and+households'+financial+decisions
-https://mpra.ub.uni-muenchen.de/64906/1/MPRA_paper_64906.pdf
-
-# 071 - Longitudinal association between trust, psychological symptoms and community engagement in resettled refugees
-# Original: https://scholar.google.com/scholar?q=Longitudinal+association+between+trust,+psychological+symptoms+and+community+engagement+in+resettled+refugees
-https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F2C391603D16952736E1EBD90E4C6299/S0033291718002246a.pdf/div-class-title-longitudinal-association-between-trust-psychological-symptoms-and-community-engagement-in-resettled-refugees-div.pdf
-
-# 072 - Social Capital and Mental Health in Rural and Urban China: A Composite Hypothesis Approach
-# Original: https://scholar.google.com/scholar?q=Social+Capital+and+Mental+Health+in+Rural+and+Urban+China:+A+Composite+Hypothesis+Approach
-https://www.mdpi.com/1660-4601/16/4/665/pdf?version=1551069085
-
-# 073 - My Children, Your Children, Our Children, and My Well-Being: Life Satisfaction of “Empty Nest” Biological Parents and Stepparents
-# Original: https://scholar.google.com/scholar?q=My+children,+your+children,+our+children,+and+my+well-being:+Life+satisfaction+of+"empty+nest"+biological+parents+and+stepparents
-https://link.springer.com/content/pdf/10.1007/s10902-019-00097-8.pdf
-
-# 075 - Association between social capital and sleep duration among rural older adults in China
-# Original: https://scholar.google.com/scholar?q=Association+between+social+capital+and+sleep+duration+among+rural+older+adults+in+China
-https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-021-12441-w
-
-# 076 - Why Inequality Makes Europeans Less Happy: The Role of Distrust, Status Anxiety, and Perceived Conflict
-# Original: https://scholar.google.com/scholar?q=Why+Inequality+Makes+Europeans+Less+Happy:+The+Role+of+Distrust,+Status+Anxiety,+and+Perceived+Conflict
-https://doi.org/10.1093/esr/jct033
-
-# 080 - Social Capital, Socioeconomic Status, and Health-Related Quality of Life Among Older Adults in Bogotá (Colombia)
-# Original: https://scholar.google.com/scholar?q=Social+capital,+socioeconomic+status,+and+health-related+quality+of+life+among+older+adults+in+Bogota+(Colombia)
-https://europepmc.org/articles/pmc4755298?pdf=render
-
-# 081 - Interpersonal Trust and Quality-of-Life: A Cross-Sectional Study in Japan
-# Original: https://scholar.google.com/scholar?q=Interpersonal+trust+and+quality-of-life:+a+cross-sectional+study+in+Japan
-https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0003985&type=printable
-
-# 083 - How are you holding up? Personality, cognitive and social predictors of a perceived shift in subjective well-being during COVID-19 pandemic
-# Original: https://scholar.google.com/scholar?q=How+are+you+holding+up?+Personality,+cognitive+and+social+predictors+of+a+perceived+shift+in+subjective+well-being+during+COVID-19+pandemic
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8523583
-
-# 084 - Life Satisfaction and Confidence in National Institutions: Evidence from South America
-# Original: https://scholar.google.com/scholar?q=Life+satisfaction+and+confidence+in+national+institutions:+Evidence+from+South+America
-https://link.springer.com/content/pdf/10.1007%2Fs11482-018-9606-3.pdf
-
-# 085 - Social capital, acculturation, mental health, and perceived access to services among Mexican American women.
-# Original: https://scholar.google.com/scholar?q=Social+Capital,+Acculturation,+Mental+Health,+and+Perceived+Access+to+Services+among+Mexican+American+Women
-https://europepmc.org/articles/pmc3314148?pdf=render
-
-# 086 - The Evolution in Anxiety and Depression with the Progression of the Pandemic in Adult Populations from Eight Countries and Four Continents
-# Original: https://scholar.google.com/scholar?q=The+Evolution+in+Anxiety+and+Depression+with+the+Progression+of+the+Pandemic+in+Adult+Populations+from+Eight+Countries+and+Four+Continents
-https://www.mdpi.com/1660-4601/18/9/4845/pdf?version=1619925741
-
-# 087 - Achieving Subjective Well-Being Around the World: The Moderating Influence of Gender, Age and National Goals for Socializing Children
-# Original: https://scholar.google.com/scholar?q=Achieving+Subjective+Well-Being+Around+the+World:+The+Moderating+Influence+of+Gender,+Age+and+National+Goals+for+Socializing+Children
-http://hdl.handle.net/10397/13351
-
-# 088 - The Effectiveness of Self-Employment of the Roma – A Quasi Experimental Design
-# Original: https://scholar.google.com/scholar?q=The+Effectiveness+of+Self-Employment+of+the+Roma+-+A+Quasi+Experimental+Design
-https://hrcak.srce.hr/file/337013
-
-# 090 - Do Informal Social Ties and Local Festival Participation Relate to Subjective Well-Being?
-# Original: https://scholar.google.com/scholar?q=Do+Informal+Social+Ties+and+Local+Festival+Participation+Relate+to+Subjective+Well-Being?
-https://www.mdpi.com/1660-4601/18/1/16/pdf?version=1608696487
-
-# 091 - The Trajectory of Subjective Well-Being: A Partial Explanation of the Marriage Advantage
-# Original: https://scholar.google.com/scholar?q=The+Trajectory+of+Subjective+Well-Being:+A+Partial+Explanation+of+the+Marriage+Advantage
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9230772
-
-# 093 - Unemployment and Psychological Distress among Young People during the COVID-19 Pandemic: Psychological Resources and Risk Factors
-# Original: https://scholar.google.com/scholar?q=Unemployment+and+Psychological+Distress+among+Young+People+during+the+COVID-19+Pandemic:+Psychological+Resources+and+Risk+Factors
-https://www.mdpi.com/1660-4601/17/19/7163/pdf?version=1601733515
-
-# 094 - Social capital and health among participants in the cachibol league in Israel
-# Original: https://scholar.google.com/scholar?q=Social+capital+and+health+among+participants+in+the+cachibol+league+in+Israel
-https://journals.sagepub.com/doi/pdf/10.1177/1012690220968114
-
-# 097 - African American Stepfather–Stepchild Relationships, Marital Quality, and Mental Health
-# Original: https://scholar.google.com/scholar?q=AFRICAN+AMERICAN+STEPFATHER-STEPCHILD+RELATIONSHIPS,+MARITAL+QUALITY,+AND+MENTAL+HEALTH
-https://europepmc.org/articles/pmc5330316?pdf=render
-
-# 100 - The effect of workplace violence on depression among medical staff in China: the mediating role of interpersonal distrust
-# Original: https://scholar.google.com/scholar?q=The+effect+of+workplace+violence+on+depression+among+medical+staff+in+China:+the+mediating+role+of+interpersonal+distrust
-https://www.researchsquare.com/article/rs-19254/v1.pdf
-
-# 105 - The Role of Collectivism–Individualism in Attitudes Toward Compliance and Psychological Responses During the COVID-19 Pandemic
-# Original: https://scholar.google.com/scholar?q=The+Role+of+Collectivism-Individualism+in+Attitudes+Toward+Compliance+and+Psychological+Responses+During+the+COVID-19+Pandemic
-https://doi.org/10.3389/fpsyg.2021.600826
-
-# 106 - The Influence of Perception of Social Equality and Social Trust on Subjective Well-Being Among Rural Chinese People: The Moderator Role of Education
-# Original: https://scholar.google.com/scholar?q=The+Influence+of+Perception+of+Social+Equality+and+Social+Trust+on+Subjective+Well-Being+Among+Rural+Chinese+People:+The+Moderator+Role+of+Education
-https://www.frontiersin.org/articles/10.3389/fpsyg.2021.731982/pdf
-
-# 107 - Social Network Sites, Individual Social Capital and Happiness
-# Original: https://scholar.google.com/scholar?q=Social+network+sites,+individual+social+capital+and+happiness
-https://papers.tinbergen.nl/16085.pdf
-
-# 108 - Differences between Chinese Adolescent Immigrants and Adolescent Non-Immigrants in Hong Kong: Perceived Psychosocial Attributes, School Environment and Characteristics of Hong Kong Adolescents
-# Original: https://scholar.google.com/scholar?q=Differences+between+Chinese+Adolescent+Immigrants+and+Adolescent+Non-Immigrants+in+Hong+Kong:+Perceived+Psychosocial+Attributes,+School+Environment+and+Characteristics+of+Hong+Kong+Adolescents
-https://www.mdpi.com/1660-4601/18/7/3739/pdf?version=1617939941
-
-# 109 - Trust After Terror: Institutional Trust Among Young Terror Survivors and Their Parents After the 22nd of July Terrorist Attack on Utøya Island, Norway
-# Original: https://scholar.google.com/scholar?q=Trust+after+terror:+Institutional+trust+among+young+terror+survivors+and+their+parents+after+the+22nd+of+July+terrorist+attack+on+Utoya+Island,+Norway
-https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02819/pdf
-
-# 110 - COVID-19 and psychological distress in Norway: The role of trust in the healthcare system
-# Original: https://scholar.google.com/scholar?q=COVID-19+and+psychological+distress+in+Norway:+The+role+of+trust+in+the+healthcare+system
-https://doi.org/10.1177/1403494820971512
-
-# 112 - Perceptions of Provider Communication Among Vulnerable Patients With Diabetes: Influences of Medical Mistrust and Health Literacy
-# Original: https://scholar.google.com/scholar?q=Perceptions+of+provider+communication+among+vulnerable+patients+with+diabetes:+Influences+of+medical+mistrust+and+health+literacy
-https://europepmc.org/articles/pmc5540358?pdf=render
-
-# 113 - Interpersonal Trauma Exposure and Depression in Young Adults: Considering the Role of World Assumptions
-# Original: https://scholar.google.com/scholar?q=Interpersonal+Trauma+Exposure+and+Depression+in+Young+Adults:+Considering+the+Role+of+World+Assumptions
-https://europepmc.org/articles/pmc7359202?pdf=render
-
-# 115 - Association between COVID-19 vaccine hesitancy and generalized trust, depression, generalized anxiety, and fear of COVID-19
-# Original: https://scholar.google.com/scholar?q=Association+between+COVID-19+vaccine+hesitancy+and+generalized+trust,+depression,+generalized+anxiety,+and+fear+of+COVID-19
-https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-021-12479-w
-
-# 116 - The Impact of Social Enterprises on Individual Wellbeing in South Korea: The Moderating Roles of Social Capital in Multilevel Analysis
-# Original: https://scholar.google.com/scholar?q=The+impact+of+social+enterprises+on+individual+wellbeing+in+South+Korea:+The+moderating+roles+of+social+capital+in+multilevel+analysis
-https://link.springer.com/content/pdf/10.1007/s11205-021-02759-8.pdf
-
-# 117 - Contribution of multiple pathways to the relationship between visual impairment and depression: Explaining mental health inequalities among older Chinese adults.
-# Original: https://scholar.google.com/scholar?q=Contribution+of+multiple+pathways+to+the+relationship+between+visual+impairment+and+depression:+Explaining+mental+health+inequalities+among+older+Chinese+adults
-https://doi.org/10.1016/j.jad.2020.09.068
-
-# 118 - Is There Social Capital in a Social Network Site?: Facebook Use and College Students' Life Satisfaction, Trust, and Participation
-# Original: https://scholar.google.com/scholar?q=Is+there+social+capital+in+a+social+network+site?:+Facebook+use+and+college+students'+life+satisfaction,+trust,+and+participation
-https://academic.oup.com/jcmc/article-pdf/14/4/875/22317792/jjcmcom0875.pdf
-
-# 119 - Sustainable Careers: Reliability of Job Satisfaction Predictors for Employees Aged 50+. Evidence from Romanian Development Regions
-# Original: https://scholar.google.com/scholar?q=Sustainable+Careers:+Reliability+of+Job+Satisfaction+Predictors+for+Employees+Aged+50+.+Evidence+from+Romanian+Development+Regions
-https://www.mdpi.com/2071-1050/13/15/8133/pdf?version=1627466078
-
-# 120 - Ethnic Disparities in Social Capital and Health among Jewish and Arab Participants in the Israeli Mamanet Cachibol League
-# Original: https://scholar.google.com/scholar?q=Ethnic+Disparities+in+Social+Capital+and+Health+among+Jewish+and+Arab+Participants+in+the+Israeli+Mamanet+Cachibol+League
-https://www.mdpi.com/1660-4601/18/1/295/pdf
-
-# 121 - TRUST WITHIN A COMMUNITY IS A DOUBLE-EDGED SWORD: TRUST HAS A POSITIVE INDIVIDUAL-LEVEL EFFECT AND A NEGATIVE CONTEXTUAL EFFECT ON SUBJECTIVE WELL-BEING
-# Original: https://scholar.google.com/scholar?q=TRUST+WITHIN+A+COMMUNITY+IS+A+DOUBLE-EDGED+SWORD:+TRUST+HAS+A+POSITIVE+INDIVIDUAL-LEVEL+EFFECT+AND+A+NEGATIVE+CONTEXTUAL+EFFECT+ON+SUBJECTIVE+WELL-BEING
-https://www.jstage.jst.go.jp/article/psysoc/61/2/61_2019-B011/_pdf
-
-# 122 - What differs between happy and unhappy people?
-# Original: https://scholar.google.com/scholar?q=What+differs+between+happy+and+unhappy+people?
-https://springerplus.springeropen.com/track/pdf/10.1186/s40064-016-1929-7
-
-# 123 - Psychological Mechanisms Linking County-Level Income Inequality to Happiness in China
-# Original: https://scholar.google.com/scholar?q=Psychological+Mechanisms+Linking+County-Level+Income+Inequality+to+Happiness+in+China
-https://www.mdpi.com/1660-4601/15/12/2667/pdf?version=1543315798
-
-# 124 - The Impact of Trust on the Willingness of Co-Tenancy Behavior: Evidence from China
-# Original: https://scholar.google.com/scholar?q=The+Impact+of+Trust+on+the+Willingness+of+Co-Tenancy+Behavior:+Evidence+from+China
-https://www.dovepress.com/getfile.php?fileID=68029
-
-# 125 - The Perceived Impact of Social Networking Sites and Apps on the Social Capital of Saudi Postgraduate Students: A Case Study
-# Original: https://scholar.google.com/scholar?q=The+Perceived+Impact+of+Social+Networking+Sites+and+Apps+on+the+Social+Capital+of+Saudi+Postgraduate+Students:+A+Case+Study
-https://www.mdpi.com/1999-5903/13/1/20/pdf?version=1611208308
-
-# 126 - The Determinants of Subjective Well-Being in a Developing Country: The Ecuadorian Case
-# Original: https://scholar.google.com/scholar?q=The+Determinants+of+Subjective+Well-Being+in+a+Developing+Country:+The+Ecuadorian+Case
-https://link.springer.com/content/pdf/10.1007/s10902-019-00211-w.pdf
-
-# 127 - Pathways Improving Compliance with Preventive Behaviors during the Remission Period of the COVID-19 Pandemic
-# Original: https://scholar.google.com/scholar?q=Pathways+Improving+Compliance+with+Preventive+Behaviors+during+the+Remission+Period+of+the+COVID-19+Pandemic
-https://doi.org/10.3390/ijerph18073512
+# PDF links log — every row from the source CSV
+# csv_row = row number in source CSV (excluding header)
+# studyid = study identifier from CSV
+# STATUS: FOUND | NO_PDF | NOT_FOUND | ERROR
+
+# csv_row:001 | studyid:study1 | Understanding Cycles Of Abuse: A Multimotive Approach.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/apl0000031
+# Semantic Scholar title: Understanding cycles of abuse: A multimotive approach.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Understanding+cycles+of+abuse%3A+A+multimotive+approach.+Journal+of+Applied+Psychology+2015
+
+# csv_row:002 | studyid:study2 | Thinking Differently: Assessing Nonlinearities In The Relationship Between Work Attitudes And Job Performance Using A Bayesian Neural Network
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1348/096317901167226
+# Semantic Scholar title: Thinking differently: Assessing nonlinearities in the relationship between work attitudes and job performance using a Bayesian neural network
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Thinking+differently%3A+Assessing+nonlinearities+in+the+relationship+between+work+attitudes+and+job+performance+using+a+Bayesian+neural+network+Journal+of+Occupational+and+Organizational+Psychology+2001
+
+# csv_row:003 | studyid:study3 | Psychosocial Risk Assessment In Organizations: Concurrent Validity Of The Brief Version Of The Management Standards Indicator Tool
+# STATUS: FOUND
+# DOI: 10.1080/02678373.2013.843607
+# Scholar: https://scholar.google.com/scholar?hl=en&q=Psychosocial+risk+assessment+in+organizations%3A+Concurrent+validity+of+the+brief+version+of+the+Management+Standards+Indicator+Tool+Work+%26amp%3B+Stress+2013
+https://www.tandfonline.com/doi/pdf/10.1080/02678373.2013.843607?needAccess=true
+
+# csv_row:004 | studyid:study4 | Linking Service Climate And Disconfirmation Of Expectations As Predictors Of Customer Satisfaction: A Cross-Level Study1
+# STATUS: FOUND
+# DOI: 10.1111/J.1559-1816.2011.00753.X
+# Scholar: https://scholar.google.com/scholar?hl=en&q=Linking+Service+Climate+and+Disconfirmation+of+Expectations+as+Predictors+of+Customer+Satisfaction%3A+A+Cross-Level+Study1+Journal+of+Applied+Social+Psychology+2011
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1559-1816.2011.00753.x
+
+# csv_row:005 | studyid:study5 | The Differential Effects Of Interpersonal Conflict From Customers And Coworkers: Trait Anger As A Moderator.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/a0023874
+# Semantic Scholar title: The differential effects of interpersonal conflict from customers and coworkers: trait anger as a moderator.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=The+differential+effects+of+interpersonal+conflict+from+customers+and+coworkers%3A+Trait+anger+as+a+moderator.+Journal+of+Occupational+Health+Psychology+2011
+
+# csv_row:006 | studyid:study6 | Employees Perceived Organizational Instrumentality: An Examination Of The Gender Differences
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1108/02683940010337112
+# Semantic Scholar title: Employees’ perceived organizational instrumentality: an examination of the gender differences
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Employees%E2%80%99+perceived+organizational+instrumentality%3A+an+examination+of+the+gender+differences+Journal+of+Managerial+Psychology+2000
+
+# csv_row:007 | studyid:study7 | Does An Intrinsic Work Value Orientation Strengthen The Impact Of Job Resources? A Perspective From The Job DemandsResources Model
+# STATUS: FOUND
+# DOI: 10.1080/13594321003669053
+# Scholar: https://scholar.google.com/scholar?hl=en&q=Does+an+intrinsic+work+value+orientation+strengthen+the+impact+of+job+resources%3F+A+perspective+from+the+Job+Demands%E2%80%93Resources+Model+European+Journal+of+Work+and+Organizational+Psychology+2011
+https://lirias.kuleuven.be/bitstream/123456789/329058/3/Van%20den%20Broeck%20Van%20Ruysseveldt%20Smulders%20De%20Witte%202010%20EWO.pdf
+
+# csv_row:008 | studyid:study8 | Examining Type A Behavior Pattern To Explain The Relationship Between Job Stressors And Psychosocial Outcomes.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/1076-8998.7.2.109
+# Semantic Scholar title: Examining Type A behavior pattern to explain the relationship between job stressors and psychosocial outcomes.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Examining+Type+A+behavior+pattern+to+explain+the+relationship+between+job+stressors+and+psychosocial+outcomes.+Journal+of+Occupational+Health+Psychology+2002
+
+# csv_row:009 | studyid:study9 | Wedded To The Job: Moderating Effects Of Job Involvement On The Consequences Of Job Insecurity.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037//1076-8998.5.1.63
+# Semantic Scholar title: Wedded to the job: moderating effects of job involvement on the consequences of job insecurity.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Wedded+to+the+job%3A+Moderating+effects+of+job+involvement+on+the+consequences+of+job+insecurity.+Journal+of+Occupational+Health+Psychology+2000
+
+# csv_row:010 | studyid:study10 | Separating The Developmental And Evaluative Performance Appraisal Uses
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1023/A:1012872907525
+# Semantic Scholar title: Separating the Developmental and Evaluative Performance Appraisal Uses
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Separating+the+Developmental+and+Evaluative+Performance+Appraisal+Uses+Journal+of+Business+and+Psychology+2002
+
+# csv_row:011 | studyid:study11 | Making Justice Sense Of Local-Expatriate Compensation Disparity: Mitigation By Local Referents, Ideological Explanations, And Interpersonal Sensitivity In China-Foreign Joint Ventures.
+# STATUS: FOUND
+# DOI: 10.2307/3069313
+# Scholar: https://scholar.google.com/scholar?hl=en&q=MAKING+JUSTICE+SENSE+OF+LOCAL-EXPATRIATE+COMPENSATION+DISPARITY%3A+MITIGATION+BY+LOCAL+REFERENTS%2C+IDEOLOGICAL+EXPLANATIONS%2C+AND+INTERPERSONAL+SENSITIVITY+IN+CHINA-FOREIGN+JOINT+VENTURES.+Academy+of+Management+Journal+2002
+https://ink.library.smu.edu.sg/lkcsb_research/1727
+
+# csv_row:012 | studyid:study12 | Work And Nonwork Outcomes Of Workplace Incivility: Does Family Support Help?
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/a0021726
+# Semantic Scholar title: Work and nonwork outcomes of workplace incivility: Does family support help?
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Work+and+nonwork+outcomes+of+workplace+incivility%3A+Does+family+support+help%3F+Journal+of+Occupational+Health+Psychology+2011
+
+# csv_row:013 | studyid:study13 | A Longitudinal Study Of Determinants Of Perceived Employability
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1002/JOB.646
+# Semantic Scholar title: A longitudinal study of determinants of perceived employability.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=A+longitudinal+study+of+determinants+of+perceived+employability+Journal+of+Organizational+Behavior+2010
+
+# csv_row:014 | studyid:study14 | Social Support From Work And Family Domains As An Antecedent Or Moderator Of WorkFamily Conflicts?
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1016/J.JVB.2009.03.001
+# Semantic Scholar title: Social support from work and family domains as an antecedent or moderator of work–family conflicts?
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Social+support+from+work+and+family+domains+as+an+antecedent+or+moderator+of+work%E2%80%93family+conflicts%3F+Journal+of+Vocational+Behavior+2009
+
+# csv_row:015 | studyid:study15 | Lagged Mediator Effects Of Self?Control Demands On Psychological Strain And Absenteeism
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1111/J.2044-8325.2012.02058.X
+# Semantic Scholar title: Lagged mediator effects of self‐control demands on psychological strain and absenteeism
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Lagged+mediator+effects+of+self%E2%80%90control+demands+on+psychological+strain+and+absenteeism+Journal+of+Occupational+and+Organizational+Psychology+2012
+
+# csv_row:016 | studyid:study16 | Close Monitoring As A Contextual Stimulator: How Need For Structure Affects The Relation Between Close Monitoring And Work Outcomes
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1080/1359432X.2012.752897
+# Semantic Scholar title: Close monitoring as a contextual stimulator: How need for structure affects the relation between close monitoring and work outcomes
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Close+monitoring+as+a+contextual+stimulator%3A+How+need+for+structure+affects+the+relation+between+close+monitoring+and+work+outcomes+European+Journal+of+Work+and+Organizational+Psychology+2014
+
+# csv_row:017 | studyid:study17 | Demographic Diversity And Employee Attitudes: An Empirical Examination Of Relational Demography Within Work Units.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/0021-9010.82.3.342
+# Semantic Scholar title: Demographic diversity and employee attitudes : An empirical examination of relational demography within work units
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Demographic+diversity+and+employee+attitudes%3A+An+empirical+examination+of+relational+demography+within+work+units.+Journal+of+Applied+Psychology+1997
+
+# csv_row:018 | studyid:study18 | Using The Job Demands?Resources Model To Predict Burnout And Performance
+# STATUS: FOUND
+# DOI: 10.1002/HRM.20004
+# Scholar: https://scholar.google.com/scholar?hl=en&q=Using+the+job+demands%E2%80%90resources+model+to+predict+burnout+and+performance+Human+Resource+Management+2004
+https://dspace.library.uu.nl/bitstream/handle/1874/10707/05_hrm43_1_bakker.pdf?sequence=2&isAllowed=y
+
+# csv_row:019 | studyid:study19 | Abusive Supervision And Counterproductive Work Behaviors
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1027/1866-5888/A000097
+# Semantic Scholar title: Abusive Supervision and Counterproductive Work Behaviors The Moderating Effects of Personality
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Abusive+Supervision+and+Counterproductive+Work+Behaviors+Journal+of+Personnel+Psychology+2013
+
+# csv_row:020 | studyid:study20 | Are Proactive Personalities Always Beneficial? Political Skill As A Moderator.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/a0037833
+# Semantic Scholar title: Are proactive personalities always beneficial? Political skill as a moderator.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Are+proactive+personalities+always+beneficial%3F+Political+skill+as+a+moderator.+Journal+of+Applied+Psychology+2015
+
+# csv_row:021 | studyid:study21 | Development Of A Work/Family Social Support Measure
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1108/JMP-06-2012-0189
+# Semantic Scholar title: Development of a work/family social support measure
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Development+of+a+work%2Ffamily+social+support+measure+Journal+of+Managerial+Psychology+2014
+
+# csv_row:022 | studyid:study22 | Integrating Expectations, Experiences, And Psychological Contract Violations: A Longitudinal Study Of New Professionals
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1348/0963179042596487
+# Semantic Scholar title: Integrating Expectations, Experiences, and Psychological Contract Violations: A Longitudinal Study of New Professionals
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Integrating+expectations%2C+experiences%2C+and+psychological+contract+violations%3A+A+longitudinal+study+of+new+professionals+Journal+of+Occupational+and+Organizational+Psychology+2004
+
+# csv_row:023 | studyid:study23 | Service Employees Give As They Get: Internal Service As A Moderator Of The Service ClimateService Outcomes Link.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/a0022071
+# Semantic Scholar title: Service employees give as they get: internal service as a moderator of the service climate-service outcomes link.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Service+employees+give+as+they+get%3A+Internal+service+as+a+moderator+of+the+service+climate%E2%80%93service+outcomes+link.+Journal+of+Applied+Psychology+2011
+
+# csv_row:024 | studyid:study24 | A Study Of The Lagged Relationships Among Safety Climate, Safety Motivation, Safety Behavior, And Accidents At The Individual And Group Levels.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/0021-9010.91.4.946
+# Semantic Scholar title: A study of the lagged relationships among safety climate, safety motivation, safety behavior, and accidents at the individual and group levels.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=A+study+of+the+lagged+relationships+among+safety+climate%2C+safety+motivation%2C+safety+behavior%2C+and+accidents+at+the+individual+and+group+levels.+Journal+of+Applied+Psychology+2006
+
+# csv_row:025 | studyid:study25 | The Role Of Political Skill In The StressorOutcome Relationship: Differential Predictions For Self- And Other-Reports Of Political Skill
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1016/J.JVB.2010.01.005
+# Semantic Scholar title: The Role of Political Skill in the Stressor–Outcome Relationship: Differential Predictions for Self- and Other-Reports of Political Skill
+# Search manually: https://scholar.google.com/scholar?hl=en&q=The+role+of+political+skill+in+the+stressor%E2%80%93outcome+relationship%3A+Differential+predictions+for+self-+and+other-reports+of+political+skill+Journal+of+Vocational+Behavior+2010
+
+# csv_row:026 | studyid:study26 | Linking Feedback Quality And Goal Orientation To Feedback Seeking And Job Performance
+# STATUS: FOUND
+# DOI: 10.1080/08959285.2012.658927
+# Scholar: https://scholar.google.com/scholar?hl=en&q=Linking+Feedback+Quality+and+Goal+Orientation+to+Feedback+Seeking+and+Job+Performance+Human+Performance+2012
+http://libres.uncg.edu/ir/asu/f/Whitaker_Brian_2012_Living_Feedback_Quality_goal_orientation.pdf
+
+# csv_row:027 | studyid:study27 | Influencing Learning States To Enhance Trainee Motivation And Improve Training Transfer
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1007/S10869-010-9198-X
+# Semantic Scholar title: Influencing Learning States to Enhance Trainee Motivation and Improve Training Transfer
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Influencing+Learning+States+to+Enhance+Trainee+Motivation+and+Improve+Training+Transfer+Journal+of+Business+and+Psychology+2011
+
+# csv_row:028 | studyid:study28 | Helping And Harming Others In The Workplace: The Roles Of Personal Values And Abusive Supervision
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1177/0018726711399940
+# Semantic Scholar title: Helping and harming others in the workplace: The roles of personal values and abusive supervision
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Helping+and+harming+others+in+the+workplace%3A+The+roles+of+personal+values+and+abusive+supervision+Human+Relations+2011
+
+# csv_row:029 | studyid:study29 | Job Demands And Job Performance: The Mediating Effect Of Psychological And Physical Strain And The Moderating Effect Of Role Clarity.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/1076-8998.12.2.116
+# Semantic Scholar title: Job demands and job performance: the mediating effect of psychological and physical strain and the moderating effect of role clarity.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Job+Demands+and+Job+Performance%3A+The+mediating+effect+of+psychological+and+physical+strain+and+the+moderating+effect+of+role+clarity.+Journal+of+Occupational+Health+Psychology+2007
+
+# csv_row:030 | studyid:study30 | Coping Patterns As Predictors Of Burnout: The Function Of Control And Escapist Coping Patterns
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1002/JOB.4030120205
+# Semantic Scholar title: Coping patterns as predictors of burnout: the function of control and escapist coping patterns
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Coping+patterns+as+predictors+of+burnout%3A+The+function+of+control+and+escapist+coping+patterns+Journal+of+Organizational+Behavior+1991
+
+# csv_row:031 | studyid:study31 | Exploring The Role Of Emotions In Injustice Perceptions And Retaliation.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/0021-9010.90.4.629
+# Semantic Scholar title: Exploring the role of emotions in injustice perceptions and retaliation.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Exploring+the+Role+of+Emotions+in+Injustice+Perceptions+and+Retaliation.+Journal+of+Applied+Psychology+2005
+
+# csv_row:032 | studyid:study32 | Is There A Global Model Of Learning Organizations? An Empirical, Cross-Nation Study<Sup></Sup>
+# STATUS: FOUND
+# DOI: 10.1080/09585192.2013.781431
+# Scholar: https://scholar.google.com/scholar?hl=en&q=Is+there+a+global+model+of+learning+organizations%3F+An+empirical%2C+cross-nation+study%3Csup%3E%E2%80%A0%3C%2Fsup%3E+The+International+Journal+of+Human+Resource+Management+2013
+http://irep.ntu.ac.uk/id/eprint/22370/1/PubSub3296_Shipton.pdf
+
+# csv_row:033 | studyid:study33 | Work And Family Variables, Entrepreneurial Career Success, And Psychological Well-Being
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1006/JVBE.1996.0025
+# Semantic Scholar title: Work and Family Variables, Entrepreneurial Career Success, and Psychological Well-Being
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Work+and+Family+Variables%2C+Entrepreneurial+Career+Success%2C+and+Psychological+Well-Being+Journal+of+Vocational+Behavior+1996
+
+# csv_row:034 | studyid:study34 | Team-Based Working And Employee Well-Being: A Cross-Cultural Comparison Of United Kingdom And Hong Kong Health Services
+# STATUS: FOUND
+# DOI: 10.1080/13594320903384821
+# Scholar: https://scholar.google.com/scholar?hl=en&q=Team-based+working+and+employee+well-being%3A+A+cross-cultural+comparison+of+United+Kingdom+and+Hong+Kong+health+services+European+Journal+of+Work+and+Organizational+Psychology+2011
+https://eprints.lancs.ac.uk/id/eprint/53136/1/Mike_West_Team_Based_Working_and_Employee_Well_Being.pdf
+
+# csv_row:035 | studyid:study35 | Third Parties Reactions To The Abusive Supervision Of Coworkers.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/apl0000002
+# Semantic Scholar title: Third parties' reactions to the abusive supervision of coworkers.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Third+parties%E2%80%99+reactions+to+the+abusive+supervision+of+coworkers.+Journal+of+Applied+Psychology+2015
+
+# csv_row:036 | studyid:study36 | Organizational Injury Rate Underreporting: The Moderating Effect Of Organizational Safety Climate.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/0021-9010.93.5.1147
+# Semantic Scholar title: Organizational injury rate underreporting: the moderating effect of organizational safety climate.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Organizational+injury+rate+underreporting%3A+The+moderating+effect+of+organizational+safety+climate.+Journal+of+Applied+Psychology+2008
+
+# csv_row:037 | studyid:study37 | The Relation Between Employee Organizational And Professional Development Activities
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1016/J.JVB.2007.10.004
+# Semantic Scholar title: The relation between employee organizational and professional development activities
+# Search manually: https://scholar.google.com/scholar?hl=en&q=The+relation+between+employee+organizational+and+professional+development+activities+Journal+of+Vocational+Behavior+2008
+
+# csv_row:038 | studyid:study38 | Integrative And Distributive Negotiation In Small Groups: Effects Of Task Structure, Decision Rule, And Social Motive
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1006/OBHD.2001.2964
+# Semantic Scholar title: Integrative and Distributive Negotiation in Small Groups: Effects of Task Structure, Decision Rule, and Social Motive
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Integrative+and+Distributive+Negotiation+in+Small+Groups%3A+Effects+of+Task+Structure%2C+Decision+Rule%2C+and+Social+Motive+Organizational+Behavior+and+Human+Decision+Processes+2002
+
+# csv_row:039 | studyid:study39 | Exploring Employee Outcomes Of Organizational Restructuring
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1177/1059601102250825
+# Semantic Scholar title: Exploring Employee Outcomes of Organizational Restructuring
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Exploring+Employee+Outcomes+of+Organizational+Restructuring+Group+%26amp%3B+Organization+Management+2003
+
+# csv_row:040 | studyid:study40 | Developing And Testing An Integrative Model Of The WorkFamily Interface
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1006/JVBE.1996.1577
+# Semantic Scholar title: Developing and Testing an Integrative Model of the Work–Family Interface
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Developing+and+Testing+an+Integrative+Model+of+the+Work%E2%80%93Family+Interface+Journal+of+Vocational+Behavior+1997
+
+# csv_row:041 | studyid:study41 | Abusive Supervision And Retaliation: A Self-Control Framework
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.5465/AMJ.2011.0977
+# Semantic Scholar title: Abusive supervision and retaliation: A self-control framework
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Abusive+Supervision+and+Retaliation%3A+A+Self-Control+Framework+Academy+of+Management+Journal+2014
+
+# csv_row:042 | studyid:study42 | Safety In The C-Suite: How Chief Executive Officers Influence Organizational Safety Climate And Employee Injuries.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/apl0000116
+# Semantic Scholar title: Safety in the c-suite: How chief executive officers influence organizational safety climate and employee injuries.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Safety+in+the+c-suite%3A+How+chief+executive+officers+influence+organizational+safety+climate+and+employee+injuries.+Journal+of+Applied+Psychology+2016
+
+# csv_row:043 | studyid:study43 | Learning From Errors: The Role Of Context, Emotion, And Personality
+# STATUS: FOUND
+# DOI: 10.1002/JOB.696
+# Scholar: https://scholar.google.com/scholar?hl=en&q=Learning+from+errors%3A+The+role+of+context%2C+emotion%2C+and+personality+Journal+of+Organizational+Behavior+2011
+https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/job.696
+
+# csv_row:044 | studyid:study44 | Service Attribute Boundary Conditions Of The Service ClimateCustomer Satisfaction Link
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.5465/AMJ.2009.44635617
+# Semantic Scholar title: Service Attribute Boundary Conditions of the Service Climate–Customer Satisfaction Link
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Service+Attribute+Boundary+Conditions+of+the+Service+Climate%E2%80%93Customer+Satisfaction+Link+Academy+of+Management+Journal+2009
+
+# csv_row:045 | studyid:study45 | To Be Or Not To Be Unionized?
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.5465/AMBPP.2014.16815ABSTRACT
+# Semantic Scholar title: To Be or Not To Be Unionized
+# Search manually: https://scholar.google.com/scholar?hl=en&q=To+Be+or+Not+to+Be+Unionized%3F+Journal+of+Personnel+Psychology+2013
+
+# csv_row:046 | studyid:study46 | Millennials (Lack Of) Attitude Problem: An Empirical Examination Of Generational Effects On Work Attitudes
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1007/S10869-010-9171-8
+# Semantic Scholar title: Millennials’ (Lack of) Attitude Problem: An Empirical Examination of Generational Effects on Work Attitudes
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Millennials%E2%80%99+%28Lack+of%29+Attitude+Problem%3A+An+Empirical+Examination+of+Generational+Effects+on+Work+Attitudes+Journal+of+Business+and+Psychology+2010
+
+# csv_row:047 | studyid:study47 | Doing The Right Thing Without Being Told: Joint Effects Of Initiative Climate And General Self-Efficacy On Employee Proactive Customer Service Performance.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/a0026736
+# Semantic Scholar title: Doing the right thing without being told: joint effects of initiative climate and general self-efficacy on employee proactive customer service performance.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Doing+the+right+thing+without+being+told%3A+Joint+effects+of+initiative+climate+and+general+self-efficacy+on+employee+proactive+customer+service+performance.+Journal+of+Applied+Psychology+2012
+
+# csv_row:048 | studyid:study48 | The Impact Of Organizational Change On The Perceptions Of Uk Managers
+# STATUS: FOUND
+# DOI: 10.1080/13594320444000047
+# Scholar: https://scholar.google.com/scholar?hl=en&q=The+impact+of+organizational+change+on+the+perceptions+of+UK+managers+European+Journal+of+Work+and+Organizational+Psychology+2004
+http://hdl.handle.net/2436/26764
+
+# csv_row:049 | studyid:study49 | Autonomous Vs. Comparative Status: Must We Be Better Than Others To Feel Good About Ourselves?
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1016/S0749-5978(02)00031-6
+# Semantic Scholar title: Autonomous vs. comparative status: Must we be better than others to feel good about ourselves?
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Autonomous+vs.+comparative+status%3A+Must+we+be+better+than+others+to+feel+good+about+ourselves%3F+Organizational+Behavior+and+Human+Decision+Processes+2002
+
+# csv_row:050 | studyid:study50 | Modeling The Antecedents Of Proactive Behavior At Work.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/0021-9010.91.3.636
+# Semantic Scholar title: Modeling the antecedents of proactive behavior at work.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Modeling+the+antecedents+of+proactive+behavior+at+work.+Journal+of+Applied+Psychology+2006
+
+# csv_row:051 | studyid:study51 | Moderators Of The Relationship Between Work-Family Conflict And Career Satisfaction.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.2307/3069354
+# Semantic Scholar title: Moderators of the Relationship Between Work-Family Conflict and Career Satisfaction
+# Search manually: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=MODERATORS+OF+THE+RELATIONSHIP+BETWEEN+WORK-FAMILY+CONFLICT+AND+CAREER+SATISFACTION.+&btnG=
+
+# csv_row:052 | studyid:study52 | Heavy Work Investment: Its Motivational Make-Up And Outcomes
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1108/JMP-06-2013-0166
+# Semantic Scholar title: Heavy work investment: Its motivational make-up and outcomes
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Heavy+work+investment%3A+its+motivational+make-up+and+outcomes+Journal+of+Managerial+Psychology+2013
+
+# csv_row:053 | studyid:study53 | Exploring Qualitative Training Reactions: Individual And Contextual Influences On Trainee Commenting.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/a0038380
+# Semantic Scholar title: Exploring qualitative training reactions: individual and contextual influences on trainee commenting.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Exploring+qualitative+training+reactions%3A+Individual+and+contextual+influences+on+trainee+commenting.+Journal+of+Applied+Psychology+2015
+
+# csv_row:054 | studyid:study54 | Exploring Qualitative Training Reactions: Individual And Contextual Influences On Trainee Commenting.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1037/a0038380
+# Semantic Scholar title: Exploring qualitative training reactions: individual and contextual influences on trainee commenting.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Exploring+qualitative+training+reactions%3A+Individual+and+contextual+influences+on+trainee+commenting.+Journal+of+Applied+Psychology+2015
+
+# csv_row:055 | studyid:study55 | Theory?Driven Development Of A Comprehensive Turnover?Attachment Motive Survey
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1002/HRM.20464
+# Semantic Scholar title: Theory-driven development of a comprehensive turnover-attachment motive survey
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Theory%E2%80%90driven+development+of+a+comprehensive+turnover%E2%80%90attachment+motive+survey+Human+Resource+Management+2012
+
+# csv_row:056 | studyid:study56 | An Investigation Of Personal Learning In Mentoring Relationships: Content, Antecedents, And Consequences.
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.2307/3069311
+# Semantic Scholar title: An Investigation of Personal Learning in Mentoring Relationships: Content, Antecedents, and Consequences
+# Search manually: https://scholar.google.com/scholar?hl=en&q=AN+INVESTIGATION+OF+PERSONAL+LEARNING+IN+MENTORING+RELATIONSHIPS%3A+CONTENT%2C+ANTECEDENTS%2C+AND+CONSEQUENCES.+Academy+of+Management+Journal+2002
+
+# csv_row:057 | studyid:study57 | Abusive Supervision And The Entitled Employee
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1016/J.LEAQUA.2013.08.001
+# Semantic Scholar title: Abusive supervision and the entitled employee
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Abusive+supervision+and+the+entitled+employee+The+Leadership+Quarterly+2014
+
+# csv_row:058 | studyid:study58 | The Development Of A Feedback Environment And Role Clarity Model Of Job Performance
+# STATUS: FOUND
+# DOI: 10.1177/0149206306297581
+# Scholar: https://scholar.google.com/scholar?hl=en&q=The+Development+of+a+Feedback+Environment+and+Role+Clarity+Model+of+Job+Performance+Journal+of+Management+2007
+http://dahling.pages.tcnj.edu/files/2013/06/whitaker-et-al-2007.pdf
+
+# csv_row:059 | studyid:study59 | Understanding Organization-Customer Links In Service Settings
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.5465/AMJ.2005.19573107
+# Semantic Scholar title: Understanding organization-customer links in service settings.
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Understanding+Organization-Customer+Links+in+Service+Settings+Academy+of+Management+Journal+2005
+
+# csv_row:060 | studyid:study60 | Benefit System And Benefit Level Satisfaction: An Expanded Model Of Antecedents And Consequences
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1177/014920630202800204
+# Semantic Scholar title: Benefit System and Benefit Level Satisfaction: An Expanded Model of Antecedents and Consequences
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Benefit+System+and+Benefit+Level+Satisfaction%3A+An+Expanded+Model+of+Antecedents+and+Consequences+Journal+of+Management+2002
+
+# csv_row:061 | studyid:study61 | The Role Of Career Competencies In The Job Demands  Resources Model
+# STATUS: FOUND
+# DOI: 10.1016/J.JVB.2013.06.011
+# Scholar: https://scholar.google.com/scholar?hl=en&q=The+role+of+career+competencies+in+the+Job+Demands+%E2%80%94+Resources+model+Journal+of+Vocational+Behavior+2013
+https://lirias.kuleuven.be/bitstream/123456789/487501/1/94.pdf
+
+# csv_row:062 | studyid:study62 | Social Identity And Social Exchange: Identification, Support, And Withdrawal From The Job
+# STATUS: FOUND
+# DOI: 10.1111/J.1559-1816.2007.00168.X
+# Scholar: https://scholar.google.com/scholar?hl=en&q=Social+Identity+and+Social+Exchange%3A+Identification%2C+Support%2C+and+Withdrawal+From+the+Job+Journal+of+Applied+Social+Psychology+2007
+https://pure.eur.nl/files/46698335/Knippenberg_et_al-2007-Journal_of_Applied_Social_Psychology.pdf
+
+# csv_row:063 | studyid:study63 | Does Best Practice Hrm Only Work For Intrinsically Motivated Employees?
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1080/09585192.2010.516589
+# Semantic Scholar title: Does best practice HRM only work for intrinsically motivated employees?
+# Search manually: https://scholar.google.com/scholar?hl=en&q=Does+best+practice+HRM+only+work+for+intrinsically+motivated+employees%3F+The+International+Journal+of+Human+Resource+Management+2010
+
+# csv_row:064 | studyid:study64 | The Process Of Burnout In White?Collar And Blue?Collar Jobs: Eight?Year Prospective Study Of Exhaustion
+# STATUS: NO_PDF — paper found in Semantic Scholar but no open-access PDF
+# DOI: 10.1002/JOB.155
+# Semantic Scholar title: The process of burnout in white-collar and blue-collar jobs: eight-year prospective study of exhaustion
+# Search manually: https://scholar.google.com/scholar?hl=en&q=The+process+of+burnout+in+white%E2%80%90collar+and+blue%E2%80%90collar+jobs%3A+eight%E2%80%90year+prospective+study+of+exhaustion+Journal+of+Organizational+Behavior+2002
+
+# csv_row:065 | studyid:study65 | Leader Mistreatment, Employee Hostility, And Deviant Behaviors: Integrating Self-Uncertainty And Thwarted Needs Perspectives On Deviance
+# STATUS: FOUND
+# DOI: 10.1016/J.OBHDP.2011.07.003
+# Scholar: https://scholar.google.com/scholar?hl=en&q=Leader+mistreatment%2C+employee+hostility%2C+and+deviant+behaviors%3A+Integrating+self-uncertainty+and+thwarted+needs+perspectives+on+deviance+Organizational+Behavior+and+Human+Decision+Processes+2012
+https://ecommons.cornell.edu/bitstreams/cb5c6508-d2c2-4698-921d-40b1a9ec774f/download
+
+# csv_row:066 | studyid:study66 | When Does Proactivity Have A Cost? Motivation At Work Moderates The Effects Of Proactive Work Behavior On Employee Job Strain
+# STATUS: FOUND
+# DOI: 10.1016/J.JVB.2017.02.001
+# Scholar: https://scholar.google.com/scholar?hl=en&q=When+does+proactivity+have+a+cost%3F+Motivation+at+work+moderates+the+effects+of+proactive+work+behavior+on+employee+job+strain+Journal+of+Vocational+Behavior+2017
+https://figshare.com/articles/journal_contribution/When_does_proactivity_have_a_cost_Motivation_at_work_moderates_the_effects_of_proactive_work_behavior_on_employee_job_strain_/19807093/1/files/35206930.pdf
 

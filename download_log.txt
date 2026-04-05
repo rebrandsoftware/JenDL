@@ -1,0 +1,273 @@
+DOWNLOAD LOG — 2026-04-05 09:28:59
+======================================================================
+
+DOWNLOADED (9 files)
+----------------------------------------
+  Row 011 | study11 | Making Justice Sense Of Local-Expatriate Compensation Disparity: Mitigation By Local Referents, Ideological Explanations, And Interpersonal Sensitivity In China-Foreign Joint Ventures.
+    File: 011.pdf
+    URL:  https://ink.library.smu.edu.sg/lkcsb_research/1727
+
+  Row 018 | study18 | Using The Job Demands?Resources Model To Predict Burnout And Performance
+    File: 018.pdf
+    URL:  https://dspace.library.uu.nl/bitstream/handle/1874/10707/05_hrm43_1_bakker.pdf?sequence=2&isAllowed=y
+
+  Row 026 | study26 | Linking Feedback Quality And Goal Orientation To Feedback Seeking And Job Performance
+    File: 026.pdf
+    URL:  http://libres.uncg.edu/ir/asu/f/Whitaker_Brian_2012_Living_Feedback_Quality_goal_orientation.pdf
+
+  Row 032 | study32 | Is There A Global Model Of Learning Organizations? An Empirical, Cross-Nation Study<Sup></Sup>
+    File: 032.pdf
+    URL:  http://irep.ntu.ac.uk/id/eprint/22370/1/PubSub3296_Shipton.pdf
+
+  Row 034 | study34 | Team-Based Working And Employee Well-Being: A Cross-Cultural Comparison Of United Kingdom And Hong Kong Health Services
+    File: 034.pdf
+    URL:  https://eprints.lancs.ac.uk/id/eprint/53136/1/Mike_West_Team_Based_Working_and_Employee_Well_Being.pdf
+
+  Row 048 | study48 | The Impact Of Organizational Change On The Perceptions Of Uk Managers
+    File: 048.pdf
+    URL:  http://hdl.handle.net/2436/26764
+
+  Row 058 | study58 | The Development Of A Feedback Environment And Role Clarity Model Of Job Performance
+    File: 058.pdf
+    URL:  http://dahling.pages.tcnj.edu/files/2013/06/whitaker-et-al-2007.pdf
+
+  Row 065 | study65 | Leader Mistreatment, Employee Hostility, And Deviant Behaviors: Integrating Self-Uncertainty And Thwarted Needs Perspectives On Deviance
+    File: 065.pdf
+    URL:  https://ecommons.cornell.edu/bitstreams/cb5c6508-d2c2-4698-921d-40b1a9ec774f/download
+
+  Row 066 | study66 | When Does Proactivity Have A Cost? Motivation At Work Moderates The Effects Of Proactive Work Behavior On Employee Job Strain
+    File: 066.pdf
+    URL:  https://figshare.com/articles/journal_contribution/When_does_proactivity_have_a_cost_Motivation_at_work_moderates_the_effects_of_proactive_work_behavior_on_employee_job_strain_/19807093/1/files/35206930.pdf
+
+DOWNLOAD FAILED (6 files)
+----------------------------------------
+  Row 003 | study3 | Psychosocial Risk Assessment In Organizations: Concurrent Validity Of The Brief Version Of The Management Standards Indicator Tool
+    URL:  https://www.tandfonline.com/doi/pdf/10.1080/02678373.2013.843607?needAccess=true
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Psychosocial+risk+assessment+in+organizations%3A+Concurrent+validity+of+the+brief+version+of+the+Management+Standards+Indicator+Tool+Work+%26amp%3B+Stress+2013
+
+  Row 004 | study4 | Linking Service Climate And Disconfirmation Of Expectations As Predictors Of Customer Satisfaction: A Cross-Level Study1
+    URL:  https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/j.1559-1816.2011.00753.x
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Linking+Service+Climate+and+Disconfirmation+of+Expectations+as+Predictors+of+Customer+Satisfaction%3A+A+Cross-Level+Study1+Journal+of+Applied+Social+Psychology+2011
+
+  Row 007 | study7 | Does An Intrinsic Work Value Orientation Strengthen The Impact Of Job Resources? A Perspective From The Job DemandsResources Model
+    URL:  https://lirias.kuleuven.be/bitstream/123456789/329058/3/Van%20den%20Broeck%20Van%20Ruysseveldt%20Smulders%20De%20Witte%202010%20EWO.pdf
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Does+an+intrinsic+work+value+orientation+strengthen+the+impact+of+job+resources%3F+A+perspective+from+the+Job+Demands%E2%80%93Resources+Model+European+Journal+of+Work+and+Organizational+Psychology+2011
+
+  Row 043 | study43 | Learning From Errors: The Role Of Context, Emotion, And Personality
+    URL:  https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/job.696
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Learning+from+errors%3A+The+role+of+context%2C+emotion%2C+and+personality+Journal+of+Organizational+Behavior+2011
+
+  Row 061 | study61 | The Role Of Career Competencies In The Job Demands  Resources Model
+    URL:  https://lirias.kuleuven.be/bitstream/123456789/487501/1/94.pdf
+    Search manually: https://scholar.google.com/scholar?hl=en&q=The+role+of+career+competencies+in+the+Job+Demands+%E2%80%94+Resources+model+Journal+of+Vocational+Behavior+2013
+
+  Row 062 | study62 | Social Identity And Social Exchange: Identification, Support, And Withdrawal From The Job
+    URL:  https://pure.eur.nl/files/46698335/Knippenberg_et_al-2007-Journal_of_Applied_Social_Psychology.pdf
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Social+Identity+and+Social+Exchange%3A+Identification%2C+Support%2C+and+Withdrawal+From+the+Job+Journal+of+Applied+Social+Psychology+2007
+
+NO PDF LINK AVAILABLE (51 papers)
+----------------------------------------
+  Row 001 | study1 | Understanding Cycles Of Abuse: A Multimotive Approach.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Understanding+cycles+of+abuse%3A+A+multimotive+approach.+Journal+of+Applied+Psychology+2015
+
+  Row 002 | study2 | Thinking Differently: Assessing Nonlinearities In The Relationship Between Work Attitudes And Job Performance Using A Bayesian Neural Network
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Thinking+differently%3A+Assessing+nonlinearities+in+the+relationship+between+work+attitudes+and+job+performance+using+a+Bayesian+neural+network+Journal+of+Occupational+and+Organizational+Psychology+2001
+
+  Row 005 | study5 | The Differential Effects Of Interpersonal Conflict From Customers And Coworkers: Trait Anger As A Moderator.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=The+differential+effects+of+interpersonal+conflict+from+customers+and+coworkers%3A+Trait+anger+as+a+moderator.+Journal+of+Occupational+Health+Psychology+2011
+
+  Row 006 | study6 | Employees Perceived Organizational Instrumentality: An Examination Of The Gender Differences
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Employees%E2%80%99+perceived+organizational+instrumentality%3A+an+examination+of+the+gender+differences+Journal+of+Managerial+Psychology+2000
+
+  Row 008 | study8 | Examining Type A Behavior Pattern To Explain The Relationship Between Job Stressors And Psychosocial Outcomes.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Examining+Type+A+behavior+pattern+to+explain+the+relationship+between+job+stressors+and+psychosocial+outcomes.+Journal+of+Occupational+Health+Psychology+2002
+
+  Row 009 | study9 | Wedded To The Job: Moderating Effects Of Job Involvement On The Consequences Of Job Insecurity.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Wedded+to+the+job%3A+Moderating+effects+of+job+involvement+on+the+consequences+of+job+insecurity.+Journal+of+Occupational+Health+Psychology+2000
+
+  Row 010 | study10 | Separating The Developmental And Evaluative Performance Appraisal Uses
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Separating+the+Developmental+and+Evaluative+Performance+Appraisal+Uses+Journal+of+Business+and+Psychology+2002
+
+  Row 012 | study12 | Work And Nonwork Outcomes Of Workplace Incivility: Does Family Support Help?
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Work+and+nonwork+outcomes+of+workplace+incivility%3A+Does+family+support+help%3F+Journal+of+Occupational+Health+Psychology+2011
+
+  Row 013 | study13 | A Longitudinal Study Of Determinants Of Perceived Employability
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=A+longitudinal+study+of+determinants+of+perceived+employability+Journal+of+Organizational+Behavior+2010
+
+  Row 014 | study14 | Social Support From Work And Family Domains As An Antecedent Or Moderator Of WorkFamily Conflicts?
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Social+support+from+work+and+family+domains+as+an+antecedent+or+moderator+of+work%E2%80%93family+conflicts%3F+Journal+of+Vocational+Behavior+2009
+
+  Row 015 | study15 | Lagged Mediator Effects Of Self?Control Demands On Psychological Strain And Absenteeism
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Lagged+mediator+effects+of+self%E2%80%90control+demands+on+psychological+strain+and+absenteeism+Journal+of+Occupational+and+Organizational+Psychology+2012
+
+  Row 016 | study16 | Close Monitoring As A Contextual Stimulator: How Need For Structure Affects The Relation Between Close Monitoring And Work Outcomes
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Close+monitoring+as+a+contextual+stimulator%3A+How+need+for+structure+affects+the+relation+between+close+monitoring+and+work+outcomes+European+Journal+of+Work+and+Organizational+Psychology+2014
+
+  Row 017 | study17 | Demographic Diversity And Employee Attitudes: An Empirical Examination Of Relational Demography Within Work Units.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Demographic+diversity+and+employee+attitudes%3A+An+empirical+examination+of+relational+demography+within+work+units.+Journal+of+Applied+Psychology+1997
+
+  Row 019 | study19 | Abusive Supervision And Counterproductive Work Behaviors
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Abusive+Supervision+and+Counterproductive+Work+Behaviors+Journal+of+Personnel+Psychology+2013
+
+  Row 020 | study20 | Are Proactive Personalities Always Beneficial? Political Skill As A Moderator.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Are+proactive+personalities+always+beneficial%3F+Political+skill+as+a+moderator.+Journal+of+Applied+Psychology+2015
+
+  Row 021 | study21 | Development Of A Work/Family Social Support Measure
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Development+of+a+work%2Ffamily+social+support+measure+Journal+of+Managerial+Psychology+2014
+
+  Row 022 | study22 | Integrating Expectations, Experiences, And Psychological Contract Violations: A Longitudinal Study Of New Professionals
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Integrating+expectations%2C+experiences%2C+and+psychological+contract+violations%3A+A+longitudinal+study+of+new+professionals+Journal+of+Occupational+and+Organizational+Psychology+2004
+
+  Row 023 | study23 | Service Employees Give As They Get: Internal Service As A Moderator Of The Service ClimateService Outcomes Link.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Service+employees+give+as+they+get%3A+Internal+service+as+a+moderator+of+the+service+climate%E2%80%93service+outcomes+link.+Journal+of+Applied+Psychology+2011
+
+  Row 024 | study24 | A Study Of The Lagged Relationships Among Safety Climate, Safety Motivation, Safety Behavior, And Accidents At The Individual And Group Levels.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=A+study+of+the+lagged+relationships+among+safety+climate%2C+safety+motivation%2C+safety+behavior%2C+and+accidents+at+the+individual+and+group+levels.+Journal+of+Applied+Psychology+2006
+
+  Row 025 | study25 | The Role Of Political Skill In The StressorOutcome Relationship: Differential Predictions For Self- And Other-Reports Of Political Skill
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=The+role+of+political+skill+in+the+stressor%E2%80%93outcome+relationship%3A+Differential+predictions+for+self-+and+other-reports+of+political+skill+Journal+of+Vocational+Behavior+2010
+
+  Row 027 | study27 | Influencing Learning States To Enhance Trainee Motivation And Improve Training Transfer
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Influencing+Learning+States+to+Enhance+Trainee+Motivation+and+Improve+Training+Transfer+Journal+of+Business+and+Psychology+2011
+
+  Row 028 | study28 | Helping And Harming Others In The Workplace: The Roles Of Personal Values And Abusive Supervision
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Helping+and+harming+others+in+the+workplace%3A+The+roles+of+personal+values+and+abusive+supervision+Human+Relations+2011
+
+  Row 029 | study29 | Job Demands And Job Performance: The Mediating Effect Of Psychological And Physical Strain And The Moderating Effect Of Role Clarity.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Job+Demands+and+Job+Performance%3A+The+mediating+effect+of+psychological+and+physical+strain+and+the+moderating+effect+of+role+clarity.+Journal+of+Occupational+Health+Psychology+2007
+
+  Row 030 | study30 | Coping Patterns As Predictors Of Burnout: The Function Of Control And Escapist Coping Patterns
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Coping+patterns+as+predictors+of+burnout%3A+The+function+of+control+and+escapist+coping+patterns+Journal+of+Organizational+Behavior+1991
+
+  Row 031 | study31 | Exploring The Role Of Emotions In Injustice Perceptions And Retaliation.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Exploring+the+Role+of+Emotions+in+Injustice+Perceptions+and+Retaliation.+Journal+of+Applied+Psychology+2005
+
+  Row 033 | study33 | Work And Family Variables, Entrepreneurial Career Success, And Psychological Well-Being
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Work+and+Family+Variables%2C+Entrepreneurial+Career+Success%2C+and+Psychological+Well-Being+Journal+of+Vocational+Behavior+1996
+
+  Row 035 | study35 | Third Parties Reactions To The Abusive Supervision Of Coworkers.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Third+parties%E2%80%99+reactions+to+the+abusive+supervision+of+coworkers.+Journal+of+Applied+Psychology+2015
+
+  Row 036 | study36 | Organizational Injury Rate Underreporting: The Moderating Effect Of Organizational Safety Climate.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Organizational+injury+rate+underreporting%3A+The+moderating+effect+of+organizational+safety+climate.+Journal+of+Applied+Psychology+2008
+
+  Row 037 | study37 | The Relation Between Employee Organizational And Professional Development Activities
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=The+relation+between+employee+organizational+and+professional+development+activities+Journal+of+Vocational+Behavior+2008
+
+  Row 038 | study38 | Integrative And Distributive Negotiation In Small Groups: Effects Of Task Structure, Decision Rule, And Social Motive
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Integrative+and+Distributive+Negotiation+in+Small+Groups%3A+Effects+of+Task+Structure%2C+Decision+Rule%2C+and+Social+Motive+Organizational+Behavior+and+Human+Decision+Processes+2002
+
+  Row 039 | study39 | Exploring Employee Outcomes Of Organizational Restructuring
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Exploring+Employee+Outcomes+of+Organizational+Restructuring+Group+%26amp%3B+Organization+Management+2003
+
+  Row 040 | study40 | Developing And Testing An Integrative Model Of The WorkFamily Interface
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Developing+and+Testing+an+Integrative+Model+of+the+Work%E2%80%93Family+Interface+Journal+of+Vocational+Behavior+1997
+
+  Row 041 | study41 | Abusive Supervision And Retaliation: A Self-Control Framework
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Abusive+Supervision+and+Retaliation%3A+A+Self-Control+Framework+Academy+of+Management+Journal+2014
+
+  Row 042 | study42 | Safety In The C-Suite: How Chief Executive Officers Influence Organizational Safety Climate And Employee Injuries.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Safety+in+the+c-suite%3A+How+chief+executive+officers+influence+organizational+safety+climate+and+employee+injuries.+Journal+of+Applied+Psychology+2016
+
+  Row 044 | study44 | Service Attribute Boundary Conditions Of The Service ClimateCustomer Satisfaction Link
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Service+Attribute+Boundary+Conditions+of+the+Service+Climate%E2%80%93Customer+Satisfaction+Link+Academy+of+Management+Journal+2009
+
+  Row 045 | study45 | To Be Or Not To Be Unionized?
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=To+Be+or+Not+to+Be+Unionized%3F+Journal+of+Personnel+Psychology+2013
+
+  Row 046 | study46 | Millennials (Lack Of) Attitude Problem: An Empirical Examination Of Generational Effects On Work Attitudes
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Millennials%E2%80%99+%28Lack+of%29+Attitude+Problem%3A+An+Empirical+Examination+of+Generational+Effects+on+Work+Attitudes+Journal+of+Business+and+Psychology+2010
+
+  Row 047 | study47 | Doing The Right Thing Without Being Told: Joint Effects Of Initiative Climate And General Self-Efficacy On Employee Proactive Customer Service Performance.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Doing+the+right+thing+without+being+told%3A+Joint+effects+of+initiative+climate+and+general+self-efficacy+on+employee+proactive+customer+service+performance.+Journal+of+Applied+Psychology+2012
+
+  Row 049 | study49 | Autonomous Vs. Comparative Status: Must We Be Better Than Others To Feel Good About Ourselves?
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Autonomous+vs.+comparative+status%3A+Must+we+be+better+than+others+to+feel+good+about+ourselves%3F+Organizational+Behavior+and+Human+Decision+Processes+2002
+
+  Row 050 | study50 | Modeling The Antecedents Of Proactive Behavior At Work.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Modeling+the+antecedents+of+proactive+behavior+at+work.+Journal+of+Applied+Psychology+2006
+
+  Row 051 | study51 | Moderators Of The Relationship Between Work-Family Conflict And Career Satisfaction.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C23&q=MODERATORS+OF+THE+RELATIONSHIP+BETWEEN+WORK-FAMILY+CONFLICT+AND+CAREER+SATISFACTION.+&btnG=
+
+  Row 052 | study52 | Heavy Work Investment: Its Motivational Make-Up And Outcomes
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Heavy+work+investment%3A+its+motivational+make-up+and+outcomes+Journal+of+Managerial+Psychology+2013
+
+  Row 053 | study53 | Exploring Qualitative Training Reactions: Individual And Contextual Influences On Trainee Commenting.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Exploring+qualitative+training+reactions%3A+Individual+and+contextual+influences+on+trainee+commenting.+Journal+of+Applied+Psychology+2015
+
+  Row 054 | study54 | Exploring Qualitative Training Reactions: Individual And Contextual Influences On Trainee Commenting.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Exploring+qualitative+training+reactions%3A+Individual+and+contextual+influences+on+trainee+commenting.+Journal+of+Applied+Psychology+2015
+
+  Row 055 | study55 | Theory?Driven Development Of A Comprehensive Turnover?Attachment Motive Survey
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Theory%E2%80%90driven+development+of+a+comprehensive+turnover%E2%80%90attachment+motive+survey+Human+Resource+Management+2012
+
+  Row 056 | study56 | An Investigation Of Personal Learning In Mentoring Relationships: Content, Antecedents, And Consequences.
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=AN+INVESTIGATION+OF+PERSONAL+LEARNING+IN+MENTORING+RELATIONSHIPS%3A+CONTENT%2C+ANTECEDENTS%2C+AND+CONSEQUENCES.+Academy+of+Management+Journal+2002
+
+  Row 057 | study57 | Abusive Supervision And The Entitled Employee
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Abusive+supervision+and+the+entitled+employee+The+Leadership+Quarterly+2014
+
+  Row 059 | study59 | Understanding Organization-Customer Links In Service Settings
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Understanding+Organization-Customer+Links+in+Service+Settings+Academy+of+Management+Journal+2005
+
+  Row 060 | study60 | Benefit System And Benefit Level Satisfaction: An Expanded Model Of Antecedents And Consequences
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Benefit+System+and+Benefit+Level+Satisfaction%3A+An+Expanded+Model+of+Antecedents+and+Consequences+Journal+of+Management+2002
+
+  Row 063 | study63 | Does Best Practice Hrm Only Work For Intrinsically Motivated Employees?
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=Does+best+practice+HRM+only+work+for+intrinsically+motivated+employees%3F+The+International+Journal+of+Human+Resource+Management+2010
+
+  Row 064 | study64 | The Process Of Burnout In White?Collar And Blue?Collar Jobs: Eight?Year Prospective Study Of Exhaustion
+    Reason: NO_PDF
+    Search manually: https://scholar.google.com/scholar?hl=en&q=The+process+of+burnout+in+white%E2%80%90collar+and+blue%E2%80%90collar+jobs%3A+eight%E2%80%90year+prospective+study+of+exhaustion+Journal+of+Organizational+Behavior+2002
+

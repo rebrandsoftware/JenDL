@@ -36,26 +36,49 @@ SETUP
 STEP 1: FIND PDF LINKS
 -----------------------
 
-Add your Google Scholar search URLs to pdf_urls.txt, one per line.
-Example format:
-  https://scholar.google.com/scholar?q=Paper+Title+Here
+You can provide input as either a CSV file or a plain text URL list.
 
-Then run:
-  python find_pdfs.py
+Option A - CSV input (recommended):
 
-This searches the Semantic Scholar API for each paper and writes direct
-PDF URLs to pdf_links.txt. Each entry includes a numbered comment with
-the paper title and original Scholar URL for traceability.
+  Place your articles in a CSV file with (at minimum) these columns:
+    articletitle, studyid, Google_Scholar_URL
+
+  Example: test_dataset/test_articles.csv
+
+  Then run:
+    python find_pdfs.py --csv test_dataset/test_articles.csv
+
+  This reads the Google_Scholar_URL column and carries the CSV row number,
+  study ID, and article title through to pdf_links.txt for traceability.
+
+Option B - Plain text input:
+
+  Add Google Scholar search URLs to pdf_urls.txt, one per line:
+    https://scholar.google.com/scholar?q=Paper+Title+Here
+
+  Then run:
+    python find_pdfs.py
+
+  (You can also populate pdf_urls.txt from a CSV by extracting the
+  Google_Scholar_URL column.)
+
+Both options search the Semantic Scholar API for each paper and write
+direct PDF URLs to pdf_links.txt. Each entry in pdf_links.txt includes
+comments with:
+  - csv_row: the row number in the source CSV (excluding header)
+  - studyid: the study identifier from the CSV
+  - article title, DOI, and original Scholar URL
 
 Options:
-  -i, --input FILE      Input file with Scholar URLs (default: pdf_urls.txt)
+  --csv FILE            CSV file with a Google_Scholar_URL column
+  -i, --input FILE      Plain text input file (default: pdf_urls.txt)
   -o, --output FILE     Output file for PDF URLs (default: pdf_links.txt)
   --delay SECONDS       Delay between API requests (default: 1.5)
   --reset               Ignore previous progress and start over
 
 Progress is saved to find_pdfs_state.json. If interrupted, re-run to
 resume. Papers without open-access PDFs and papers not found are listed
-in the summary and written to failed_papers.txt.
+in the summary.
 
 
 STEP 2: DOWNLOAD PDFS
@@ -105,11 +128,11 @@ To start completely fresh (both lookup and downloads):
            rmdir /s downloads
 
 Then re-run both steps:
-  python find_pdfs.py
+  python find_pdfs.py --csv test_dataset/test_articles.csv
   python download.py -l pdf_links.txt
 
 To re-run only the PDF link lookup (keeps existing downloads):
-  python find_pdfs.py --reset
+  python find_pdfs.py --csv test_dataset/test_articles.csv --reset
 
 To re-run only the downloads (keeps existing lookup results):
   Mac:     rm -f download_state.json && rm -rf downloads/
@@ -134,7 +157,7 @@ TROUBLESHOOTING
 
 Papers not found by find_pdfs.py:
   Semantic Scholar may not have the paper, or the title may differ
-  slightly. Check failed_papers.txt for the list and search manually.
+  slightly. Check the summary output for the list and search manually.
 
 Slow downloads:
   This is intentional. The delays between downloads prevent publishers
